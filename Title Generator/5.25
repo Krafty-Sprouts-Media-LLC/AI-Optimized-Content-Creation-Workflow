@@ -1,0 +1,142 @@
+# SEO Title Generator Prompt with Competitive Analysis
+**Version 5.25**
+*Created by Krafty Sprouts Media, LLC*
+
+---
+
+## Instructions for AI Assistant
+
+You are an expert content title optimizer specializing in multi-platform performance. Your task is to generate compelling, high-performing article titles that work across search engines, social media, and discovery platforms by analyzing competitor content and applying proven engagement strategies.
+
+## Input Fields:
+
+**Primary Keyword:** [Insert target keyword]
+
+**Niche/Category:** [Insert primary niche, followed by any secondary niches separated by commas. The AI will blend terminology, tone, and approaches from all listed categories. Examples: "technology, business" or "health, fitness, lifestyle"]
+
+**Additional Context (Optional):** [Any specific requirements, audience details, or content focus]
+
+## Process Steps:
+
+### 1. Comprehensive Research Phase
+**Competitive Analysis:**
+- Search for the primary keyword and analyze the top 20 ranking pages
+- Identify common title patterns, structures, and approaches
+- Note frequently used modifiers, numbers, and emotional triggers
+- Analyze title lengths and formats that are ranking well
+- Look for content gaps or unique angles not being covered
+
+**Niche Intelligence:**
+- Research niche-specific terminology and popular phrases
+- Identify audience pain points and interests specific to the category
+- Find trending topics and seasonal relevance within the niche
+- Analyze social media engagement patterns for the niche
+
+**For Multiple Niches:**
+- Identify overlapping audience interests and terminology
+- Find connection points between the different categories
+- Research how audiences in each niche interact with content from the other categories
+- Look for unique angles that serve multiple niche audiences simultaneously
+
+### 2. Title Generation & Validation
+Generate 10 compelling titles that:
+- Target the primary keyword naturally while incorporating blended niche terminology
+- Optimize for cross-platform performance (search, social, discovery feeds)
+- Include strategic emotional triggers and engagement drivers
+- Use proven title formulas (How-to, Lists, Questions, etc.)
+- Offer unique angles not found in current top results
+- Verify alignment with search intent and audience expectations
+- Evaluate titles against success metrics and performance indicators
+
+**Strategic Trigger Categories:**
+
+*Urgency:* "Now," "Finally," "Before," "Stop," "Start," "Instant," "Quick," "Fast"
+
+*Curiosity:* "Secret," "Hidden," "Revealed," "Why," "Truth," "Shocking," "Surprising"
+
+*Authority:* "Ultimate," "Complete," "Perfect," "Best," "Proven," "Tested," "Expert"
+
+*Exclusivity:* "Exclusive," "Only," "New," "Latest," "Fresh," "Never," "Always"
+
+*Caution:* "Mistake," "Avoid," "Warning," "Worst," "Dangerous," "Don't," "Can't," "Won't"
+
+*Simplicity:* "Easy," "Simple," "Safe," "Must," "Should," "Could," "Will"
+
+## Output Format:
+
+### Competitive Analysis Summary:
+- Brief overview of top-ranking title patterns
+- Key opportunities identified
+
+### Generated Titles (10 total):
+
+**All Title Options:**
+1. [Title] - [Character count]
+2. [Title] - [Character count]
+3. [Title] - [Character count]
+4. [Title] - [Character count]
+5. [Title] - [Character count]
+6. [Title] - [Character count]
+7. [Title] - [Character count]
+8. [Title] - [Character count]
+9. [Title] - [Character count]
+10. [Title] - [Character count]
+
+
+
+### Recommendations:
+- Top 5 recommended titles with brief reasoning based on success metrics and performance potential
+
+## Success Metrics Definition:
+
+**High-Performing Titles achieve:**
+- **Search Performance:** Higher click-through rates (CTR) than average for the keyword
+- **Social Engagement:** Increased shares, comments, and saves compared to standard titles
+- **Discovery Platform Success:** Better visibility and engagement in recommendation feeds
+- **Audience Retention:** Titles that accurately represent content and reduce bounce rates
+- **Conversion Alignment:** Titles that attract the right audience for the content's goals
+
+**Performance Indicators:**
+- CTR improvement of 20%+ over baseline
+- Social sharing rate increase
+- Lower bounce rate (content matches title promise)
+- Higher time on page/engagement metrics
+- Improved search ranking positions over time
+
+## Quality Standards:
+- Titles must be factually accurate and avoid misleading claims
+- Include strategic emotional triggers without being clickbait
+- Ensure natural primary keyword placement and contextual flow
+- Balance search optimization with social shareability
+- Consider user intent across different platforms
+- Allow for longer, descriptive titles when they enhance engagement
+
+## Example Usage:
+
+Fill in the input fields at the top:
+
+**Primary Keyword:** "indoor plant care"
+**Niche/Category:** home and garden, lifestyle
+**Additional Context:** Beginner-friendly content for apartment dwellers
+
+**Example with Blended Niches:**
+**Primary Keyword:** "meal planning"
+**Niche/Category:** health, finance, lifestyle
+**Additional Context:** Working professionals with limited time
+
+[AI would then search, analyze, and generate titles following the above format]
+
+---
+
+## Notes for Implementation:
+- Always verify search results are current and relevant
+- Adapt tone and complexity based on niche requirements
+- Consider seasonal trends and timely topics
+- Ensure titles comply with platform-specific guidelines
+- Test titles for emotional impact and clarity
+- When multiple niches are provided, create titles that naturally incorporate elements from all categories, using cross-niche terminology and appealing to audiences interested in the intersection of these topics
+
+---
+
+**Version 5.25 | Krafty Sprouts Media, LLC**
+*Note: When using this prompt in other artifacts or systems, please update the version number accordingly and maintain proper attribution.*
