@@ -1,0 +1,616 @@
+# AI-Optimized Content Rewriter & Updater Workflow v3.0
+## Content Analysis + Title Optimization + Strategic Rewriting + Research Integration
+
+*Created by Krafty Sprouts Media, LLC*
+
+**Note:** This workflow is designed as a complete, self-contained prompt. When pasting elsewhere, ensure the entire workflow is included for proper AI execution and optimal results.
+
+This workflow is designed for AI writers to analyze, update, and optimize existing content while preserving valuable elements and improving overall performance across all platforms.
+
+---
+
+## WORKFLOW BENEFITS
+
+**Integrated AI Approach:**
+- Content viability assessment with streamlined scoring
+- Title evaluation and optimization system
+- Strategic preservation of valuable existing elements
+- **FIXED: Link ecosystem preservation and optimization with enhanced tracking**
+- Fresh research integration with flexible fact-checking
+- Multi-platform optimization (search engines, social, discovery)
+- **FIXED: Format diversity enforcement with mandatory verification**
+- Algorithmic decision-making with clear metrics
+- Quick assessment mode for simple updates
+
+**End Result:**
+- Professionally updated content that retains original value
+- Optimized titles that work across all platforms
+- Improved search rankings + social shareability
+- Enhanced readability and user experience
+- **GUARANTEED: Strategic link distribution with zero link loss**
+- **GUARANTEED: Format diversity with visual engagement elements**
+- Clear change documentation for tracking improvements
+
+---
+
+## INPUT REQUIREMENTS
+
+**Required Information:**
+
+**Existing Article Text**: 
+[Insert complete article including headings/outline]
+___
+
+- **Primary Keyword**: [Insert target keyword]
+- **Secondary Keywords**: [Insert 2-3 related keywords, comma-separated]
+- **Niche/Category**: [Insert niche - supports comma-separated categories]
+- **Tone**: [Professional, conversational, authoritative, casual, etc.]
+- **Point of View**: [First person, second person, third person, etc.]
+
+**Optional Specifications:**
+- **Update Mode**: [Quick Assessment | Full Workflow] (Default: Full Workflow)
+- **Specific Update Focus**: [Insert any particular areas needing attention]
+- **Content Goals**: [Maintain length, expand, condense, etc.]
+
+---
+
+## EXECUTION INSTRUCTIONS FOR AI
+
+**CRITICAL**: Execute this entire workflow in ONE comprehensive response. Do not break into multiple interactions.
+
+### STEP 0: INPUT VALIDATION (MANDATORY FIRST STEP)
+
+**BEFORE PROCEEDING WITH ANY ANALYSIS OR CONTENT CREATION:**
+
+1. **Verify ALL Required Inputs Are Complete:**
+   - [ ] Existing Article Text: Must contain actual content with headings/outline
+   - [ ] Primary Keyword: Must be specific and actionable
+   - [ ] Secondary Keywords: Must include 2-3 related keywords
+   - [ ] Niche/Category: Must be clearly defined
+   - [ ] Tone: Must be specified from available options
+   - [ ] Point of View: Must be clearly stated
+
+2. **If ANY Input is Missing, Incomplete, or Contains Placeholder Text:**
+   - **STOP IMMEDIATELY**
+   - **DO NOT PROCEED** with analysis or content creation
+   - **RESPOND WITH:** "I cannot proceed with the content rewriter workflow because the following inputs are missing or incomplete: [List specific issues]"
+   - **REQUEST:** "Please provide the missing information so I can execute the complete workflow."
+
+3. **Only After ALL Inputs Are Validated as Complete:**
+   - **IMMEDIATELY EXECUTE STEP 0B: CRITICAL LINK INVENTORY**
+   - Determine Update Mode (Quick Assessment or Full Workflow)
+   - Proceed to appropriate workflow path
+
+### STEP 0B: CRITICAL LINK INVENTORY (MANDATORY - EXECUTE IMMEDIATELY AFTER INPUT VALIDATION)
+
+**EXECUTE THIS BEFORE ANY OTHER ANALYSIS:**
+
+**LINK EXTRACTION PROTOCOL:**
+1. **SCAN ENTIRE ARTICLE**: Read through every paragraph of the original article
+2. **IDENTIFY ALL LINKS**: Find every hyperlink, regardless of format
+3. **CATALOG EACH LINK**: Record in format: `[Anchor Text](URL)` + Section Location
+4. **CREATE MASTER LIST**: Maintain this list throughout entire workflow
+5. **VERIFY COUNT**: State exact number of links found
+
+**LINK INVENTORY FORMAT:**
+```
+ORIGINAL LINKS FOUND: [Number]
+1. [Anchor Text](URL) - Located in: [Section Name]
+2. [Anchor Text](URL) - Located in: [Section Name]
+[Continue for all links]
+```
+
+**PRESERVATION COMMITMENT:**
+- **MANDATORY**: Every single link from this inventory MUST appear in final article
+- **ZERO TOLERANCE**: No original links can be lost during rewriting
+- **ADAPTATION ALLOWED**: Anchor text can be modified, but URLs must remain identical
+- **TRACKING REQUIRED**: Document where each original link was placed in new content
+
+---
+
+## FAILURE PROTOCOLS - MANDATORY RESTART CONDITIONS
+
+**CRITICAL FAILURE POINTS - RESTART REQUIRED:**
+- **LINK INVENTORY FAILURE**: If original article contains links but "0 links found" is reported, RESTART required
+- **LINK PRESERVATION FAILURE**: If ANY original link is missing from final output, RESTART required
+- **LINK IMPLEMENTATION FAILURE**: If "new links added" is claimed but no actual URLs are provided, RESTART required
+- **FORMAT DIVERSITY FAILURE**: If final article lacks required format elements (lists, tables, callouts), RESTART required
+- **TITLE DECISION FAILURE**: If AI outputs final title without explicit scoring comparison and decision reasoning, RESTART required
+- **STRUCTURAL INTEGRITY FAILURE**: If AI proceeds without completing structural integrity check, RESTART required
+
+**RESTART PROTOCOL:**
+"This output does not meet workflow requirements. Please restart and ensure you:
+1. Execute STEP 0B: CRITICAL LINK INVENTORY immediately after input validation
+2. Report exact number of original links found (cannot be 0 if links exist)
+3. Preserve every original link in final content with documentation
+4. Implement actual URLs for new links (not placeholders)
+5. Include all required format elements (lists, tables, callouts)
+6. Complete structural integrity check before content scoring
+7. Explicitly compare title scores and justify decision"
+
+---
+
+## QUICK ASSESSMENT MODE
+
+**For Simple Updates (When specified or content needs minimal changes):**
+
+### Quick Step 1: Rapid Content Analysis
+**Streamlined Scoring (Rate each category 1-10, total /40):**
+- **Content Quality**: Writing clarity, grammar, engagement, readability
+- **SEO Foundation**: Keyword optimization, structure, search intent alignment
+- **Currency/Accuracy**: Current data, relevant examples, up-to-date information
+- **Unique Value**: Original insights, competitive differentiation, completeness
+
+**Quick Decision Matrix:**
+- **Score ≥ 30 + No Major Structural Issues**: Light touch updates (facts, examples, minor improvements)
+- **Score ≥ 30 + Major Structural Issues**: Moderate updates with structural reorganization
+- **Score 20-29**: Moderate updates (section rewrites, structure improvements)
+- **Score ≤ 19 OR Fundamental Structural Problems**: **RECOMMEND**: "This content requires complete recreation. Please use your Writer prompt to create a fresh article on this topic instead."
+
+### Quick Step 2: Title & Content Updates
+**Title Evaluation & Decision (MANDATORY):**
+- **Score existing title** using 5-criteria system (1-10 each, total /50)
+- **Generate 2-3 alternatives** if current title scores ≤ 35/50
+- **Title Selection Decision**: Apply 3+ point rule for decision making
+- **EXPLICIT DOCUMENTATION**: "Current title [X/50] vs Best alternative [Y/50] = [DECISION with reasoning]"
+
+**Structural Assessment (MANDATORY):**
+- **Quick structural check** using same criteria as Full Workflow
+- **Address structural issues** based on decision matrix above
+
+**Priority Updates:** Focus on outdated facts, broken links, keyword optimization, structural improvements
+
+**ENHANCED LINK MAINTENANCE:**
+- **Preserve ALL original links** from Step 0B inventory
+- **Add 2-3 new links** with actual URLs if total below 6
+- **Verify link distribution** (no clustering)
+
+**FORMAT DIVERSITY ENFORCEMENT:**
+- **MANDATORY**: Include minimum 2 bullet lists, 1 numbered list, 1 table, 2 callouts
+- **VERIFICATION**: Confirm each element is present in final output
+
+---
+
+## FULL WORKFLOW MODE
+
+### STEP 1: Initial Research & Competitive Analysis
+
+**Strategic Research (Maximum 5 searches unless additional fact-checking is critical for accuracy):**
+- **Search 1**: [Primary Keyword] + "2024" OR "2025" OR "guide" - Current competitive landscape
+  - **COLLECT URLS**: Note specific URLs from results that can be used for linking
+  - **URL EXTRACTION**: Copy exact URLs from search results, not descriptions
+- **Search 2**: [Primary Keyword] + "statistics" OR "data" OR "study" - Fact-checking resources
+  - **COLLECT URLS**: Note specific URLs from research studies, data sources, expert articles
+  - **URL EXTRACTION**: Copy exact URLs from search results, not descriptions
+
+**Additional Searches (As needed based on initial findings):**
+- **Search 3+**: Target specific outdated claims or missing information identified
+  - **COLLECT URLS**: Continue building list of linkable sources
+  - **URL EXTRACTION**: Copy exact URLs from search results, not descriptions
+- **FACT-CHECKING FLEXIBILITY**: Additional searches beyond 5 are permitted when accuracy verification is critical
+- **LINK COLLECTION GOAL**: Gather 6-8 relevant, specific URLs for implementation
+
+**RESEARCH URL TRACKING:**
+```
+RESEARCH URLS COLLECTED:
+1. [URL] - From Search: [Query] - Topic: [Description]
+2. [URL] - From Search: [Query] - Topic: [Description]
+[Continue for all URLs]
+```
+
+### STEP 2: Content Viability Assessment
+
+**Structural Integrity Check (MANDATORY FIRST):**
+- **Heading Logic**: Do headings support the article's main purpose and target keyword?
+- **Organizational Flow**: Is the sequence logical and user-friendly (alphabetical, importance, process-based)?
+- **Content Accuracy**: Are all headings/topics factually correct and relevant to the niche?
+- **Naming Consistency**: Are headings formatted consistently throughout?
+- **Completeness**: Are there obvious gaps or questionable inclusions?
+
+**Structural Issues Assessment:**
+- [ ] **Illogical organization/sequence** (random order, no clear logic)
+- [ ] **Inconsistent naming conventions** (mixed formats, parenthetical inconsistencies)
+- [ ] **Questionable/inaccurate headings** (suspect topics, factual errors)
+- [ ] **Missing essential topics** (obvious gaps in coverage)
+- [ ] **Irrelevant inclusions** (off-topic or tangential content)
+
+**Structural Treatment Decision:**
+- **Minor Issues (1-2 checkboxes)**: Fix naming consistency, reorder logically during rewrite
+- **Major Issues (3-4 checkboxes)**: Complete structural overhaul required
+- **Fundamental Problems (5 checkboxes)**: **RECOMMEND**: "This content structure is fundamentally flawed. Please use your Writer prompt to create a fresh article with proper organization instead."
+
+**Streamlined Scoring (Rate each category 1-10, total /40):**
+- **Content Quality**: Writing clarity, grammar, engagement, readability, logical flow
+- **SEO Foundation**: Keyword integration, meta-optimized structure, search intent alignment
+- **Currency/Accuracy**: Current statistics, relevant examples, up-to-date information, factual correctness
+- **Unique Value**: Original insights, distinctive angles, proprietary information, competitive differentiation
+
+**Analysis Categories:**
+- **Content Archaeology**: Identify valuable buried insights that may be poorly presented
+- **Structural Issues**: Note formatting inconsistencies, poor transitions, logical gaps
+- **Outdated Elements**: Flag statistics, examples, tool recommendations, policy changes
+- **Writing Quality Issues**: Grammar errors, awkward phrasing, unclear explanations
+- **Link Assessment**: Identify broken links, poorly placed links, missing link opportunities
+
+**Decision Matrix:**
+- **Salvageability Score ≥ 30 + Minor Structural Issues**: Rewrite/Update approach
+- **Salvageability Score ≥ 30 + Major Structural Issues**: Hybrid approach with complete structural overhaul
+- **Salvageability Score 20-29 + Minor/Major Structural Issues**: Hybrid approach (preserve content insights, restructure completely)
+- **Salvageability Score ≤ 19 OR Fundamental Structural Problems**: **RECOMMEND**: "This content requires complete recreation. Please use your Writer prompt to create a fresh article on this topic instead."
+
+### STEP 3: Title Evaluation & Optimization
+
+**Current Title Analysis:**
+- **Score existing title** using 5-criteria system (1-10 each, total /50):
+  - Search Optimization (keyword placement, search intent match)
+  - Multi-Platform Appeal (works for search engines, social feeds, discovery platforms)
+  - Deliverability (can content fulfill the promise?)
+  - Competitive Differentiation (unique angle vs current top results)
+  - Engagement Triggers (emotional hooks, curiosity gaps)
+
+**Alternative Title Generation (Generate 3-5 alternatives using proven formulas):**
+1. How-to: "How to [Primary Keyword] [Benefit/Timeframe]"
+2. List: "X [Primary Keyword] [Superlative] for [Target Audience]"
+3. Question: "What [Primary Keyword] [Pain Point/Benefit]?"
+4. Comparison: "[Primary Keyword] vs [Alternative]: [Unique Angle]"
+5. Problem-solution: "Why [Common Problem] + How [Primary Keyword] Solves It"
+
+**Title Selection Decision Matrix:**
+- **Keep Current Title**: Only if current title scores ≥ 40/50 AND no alternative exceeds it by 3+ points
+- **Switch to Alternative**: If any alternative scores 3+ points higher than current title, OR if current title scores < 40/50 and alternatives exist
+- **MANDATORY**: Always choose the highest-scoring option when the difference is 3+ points
+- **TIE-BREAKER**: If scores are within 2 points, prefer the alternative for freshness
+
+**Title Selection Process:**
+1. Score current title and all alternatives
+2. Apply decision matrix above
+3. **EXPLICITLY STATE**: "Based on scoring: Current [X/50] vs Best Alternative [Y/50] = [DECISION]"
+
+### STEP 4: Enhanced Research & Fact-Checking
+
+**Research Phase A: Content Enhancement**
+- Query: [Primary Keyword] + [Secondary Keywords] + "latest" OR "trends"
+- Gather fresh examples, case studies, expert quotes
+- Identify improvement opportunities from competitive analysis
+
+**Research Phase B: Niche-Specific Updates**
+- Query: [Niche] + [Primary Keyword] + "2024" OR "2025"
+- Identify industry changes, new best practices, emerging trends
+- Skip if Phase A provides sufficient niche coverage
+
+**Flexible Fact-Checking Protocol:**
+- **Additional targeted searches** as needed for verification of specific claims
+- **No hard limit** on fact-checking searches when accuracy is critical
+- **Document research limitations** if comprehensive fact-checking isn't possible
+
+### STEP 5: Content Treatment Strategy
+
+**Preserve (Keep As-Is):**
+- Well-written sections with accurate, current information
+- Unique insights or proprietary information
+- Effective examples that remain relevant
+- Properly optimized headings and structure
+
+**Update (Modify Existing):**
+- Current statistics with newer data
+- Outdated examples with fresh alternatives
+- Tool recommendations with current options
+- Policy or regulation changes
+
+**Rewrite (Completely Rework):**
+- Sections with poor grammar or unclear explanations
+- Awkward transitions and logical gaps
+- Poorly structured paragraphs
+- Content that doesn't match specified tone/POV
+
+**Replace (Remove and Substitute):**
+- Completely outdated information
+- Irrelevant examples or case studies
+- Broken concepts or deprecated practices
+
+### STEP 6: Strategic Content Rewriting
+
+**MANDATORY LINK PRESERVATION PROTOCOL:**
+
+**ORIGINAL LINKS VERIFICATION:**
+- **REFERENCE STEP 0B INVENTORY**: Use the link inventory created at the beginning
+- **VERIFY INVENTORY**: Confirm all links from Step 0B are accounted for
+- **PRESERVATION COMMITMENT**: Every link from inventory must appear in final content
+
+**CONTENT REWRITING WITH ACTIVE LINK MIGRATION:**
+- **DURING REWRITING**: Actively place each preserved link in new content
+- **CONTEXTUAL PLACEMENT**: Place each link in most relevant new section
+- **ANCHOR TEXT ADAPTATION**: If original anchor text no longer fits, adapt but keep same URL
+- **PLACEMENT DOCUMENTATION**: Note where each original link was placed
+
+**ENHANCED NEW LINK IMPLEMENTATION:**
+- **USE RESEARCH URLS**: Reference Step 1 Research URL Tracking list
+- **ACTUAL URL REQUIREMENT**: Must use real URLs collected during research
+- **MARKDOWN FORMAT**: Implement as `[anchor text](URL)`
+- **NO PLACEHOLDERS**: Never use generic descriptions - must be working links
+- **VERIFICATION**: Ensure each new link goes to specific content, not homepages
+
+**LINK DISTRIBUTION REQUIREMENTS:**
+- **TOTAL COUNT**: 6-8 links total (original + new)
+- **SECTION DISTRIBUTION**: Max 2 links per major section
+- **NO CLUSTERING**: Avoid placing all links at article end
+
+**ENHANCED FORMAT DIVERSITY ENFORCEMENT:**
+
+**MANDATORY FORMAT ELEMENTS:**
+- **Bullet Lists**: Minimum 2 bullet lists throughout article
+- **Numbered Lists**: Minimum 1 numbered list
+- **Tables**: Minimum 1 table (comparison, data, or summary)
+- **Callouts/Boxes**: Minimum 2 callouts (tips, warnings, or key insights)
+
+**FORMAT ELEMENT VERIFICATION:**
+- **DURING WRITING**: Actively place format elements in relevant sections
+- **PLACEMENT STRATEGY**: Distribute elements throughout article, not clustered
+- **CONTENT RELEVANCE**: Ensure each format element adds value to content
+- **VISUAL IMPACT**: Use formatting to break up text and improve readability
+
+**FORMAT IMPLEMENTATION EXAMPLES:**
+- **Bullet Lists**: Use for benefits, features, steps, or key points
+- **Numbered Lists**: Use for processes, rankings, or sequential information
+- **Tables**: Use for comparisons, data presentation, or summary information
+- **Callouts**: Use for important tips, warnings, or key insights
+
+**Content Standards Application:**
+
+**Introduction Treatment:**
+- Preserve effective hooks, update with current data if needed
+- Maintain value promise while improving clarity
+- Ensure primary keyword integration within first 50 words
+- Optimize first 2-3 sentences for social sharing
+
+**Body Section Treatment:**
+- Apply content treatment strategy (preserve/update/rewrite/replace)
+- Maintain logical section flow while improving transitions
+- Integrate fresh research findings and examples
+- Ensure each section delivers specific benefits
+- **IMPLEMENT FORMAT DIVERSITY**: Add required format elements
+
+**Keyword Integration Optimization:**
+- Primary Keyword: Maintain 3-4 total uses, improve natural integration
+- Secondary Keywords: Enhance 1-2 uses each with better semantic variations
+- Remove keyword stuffing while maintaining optimization
+- Prioritize natural flow over exact density
+
+**Tone Consistency Enforcement:**
+- Align all rewritten sections with specified tone
+- Maintain consistency across preserved and updated content
+- Ensure POV consistency throughout article
+- Preserve original style unless specifically instructed otherwise
+
+### STEP 7: Quality Assurance & Optimization
+
+**Content Quality Verification:**
+- Consistent formatting and structure throughout
+- Logical flow between all sections
+- Factual accuracy of all claims and statistics
+- Proper grammar, spelling, and punctuation
+- Readability appropriate for target audience
+
+**SEO Optimization Check:**
+- Keyword integration maintains or improves optimization
+- Meta-optimized structure preserved/enhanced
+- Internal linking strategy supports user experience
+- Content satisfies search intent for target keywords
+
+**Link Ecosystem Health:**
+- **ORIGINAL LINKS**: All links from Step 0B inventory preserved and documented
+- **NEW LINKS**: All research URLs implemented with actual working links
+- **DISTRIBUTION**: 6-8 total links strategically distributed
+- **QUALITY**: No broken or redirected URLs, relevant anchor text
+
+**FORMAT DIVERSITY VERIFICATION:**
+- **BULLET LISTS**: Minimum 2 present and properly formatted
+- **NUMBERED LISTS**: Minimum 1 present and properly formatted
+- **TABLES**: Minimum 1 present with relevant data
+- **CALLOUTS**: Minimum 2 present with valuable insights
+- **DISTRIBUTION**: Format elements spread throughout article
+
+---
+
+## FALLBACK STRATEGIES
+
+**Limited Research Results:**
+- **TRIGGER**: When searches return insufficient or low-quality results
+- **ACTION**: Use available sources for fact-checking priority, focus on structural and writing improvements
+- **DOCUMENTATION**: Note research limitations in final documentation
+
+**Extensive Outdated Content:**
+- **TRIGGER**: When >60% of content contains outdated information
+- **ACTION**: Prioritize factual accuracy over preservation, replace outdated sections with current information
+- **DOCUMENTATION**: Document significant content changes and justification
+
+**Poor Original Structure:**
+- **TRIGGER**: When logical flow issues affect content comprehension
+- **ACTION**: Maintain logical flow while improving organization, preserve valuable insights in better structure
+- **DOCUMENTATION**: Note structural improvements in documentation
+
+**Broken Link Ecosystem:**
+- **TRIGGER**: When >50% of existing links are broken or irrelevant
+- **ACTION**: Identify and note broken links for manual review, preserve link placement structure, focus on adding high-quality replacement links
+- **DOCUMENTATION**: List broken links and replacement strategy
+
+**Insufficient Research URLs:**
+- **TRIGGER**: When research yields fewer than 3-4 quality URLs for linking
+- **ACTION**: Conduct additional targeted searches for specific topics, use authoritative sources even if not perfectly aligned
+- **DOCUMENTATION**: Note research limitations and source quality compromises
+
+---
+
+## AI OUTPUT FORMAT
+
+### Content Analysis Results
+**Update Mode:** [Quick Assessment | Full Workflow]
+
+**STEP 0B: CRITICAL LINK INVENTORY RESULTS**
+**Original Links Found:** [Number]
+```
+1. [Anchor Text](URL) - Located in: [Section Name]
+2. [Anchor Text](URL) - Located in: [Section Name]
+[Continue for all links]
+```
+
+**Structural Integrity Assessment:**
+- **Issues Identified**: [List specific structural problems found]
+- **Structural Treatment**: [Minor Issues | Major Issues | Fundamental Problems]
+
+**Salvageability Assessment:**
+- **Overall Score**: X/40
+- **Content Quality**: X/10
+- **SEO Foundation**: X/10
+- **Currency/Accuracy**: X/10
+- **Unique Value**: X/10
+
+**Treatment Decision**: [Light Touch | Moderate Updates | Rewrite/Update | Hybrid Approach | Complete Structural Overhaul | **RECOMMEND WRITER PROMPT**]
+
+**Key Findings:**
+- **Preserve**: [List sections/elements to keep as-is]
+- **Update**: [List elements needing data/example updates]
+- **Rewrite**: [List sections needing complete reworking]
+- **Replace**: [List outdated elements requiring replacement]
+- **Restructure**: [List structural changes needed]
+
+### Title Analysis & Optimization
+**Current Title Score:** X/50
+**Alternative Titles with Scores:**
+1. [Title] (Score: X/50)
+2. [Title] (Score: X/50)
+3. [Title] (Score: X/50)
+
+**Title Decision Report:**
+- **Current Title Score**: [X/50]
+- **Best Alternative Score**: [Y/50] 
+- **Decision**: [Keep Current | Switch to Alternative]
+- **Reasoning**: [Based on 3+ point rule or other criteria]
+
+**Selected Title:** [Final title choice]
+
+### Research Summary
+**Competitive Landscape**: [Brief overview of current content competition]
+**Research URLs Collected:** [Number]
+```
+1. [URL] - Topic: [Description]
+2. [URL] - Topic: [Description]
+[Continue for all URLs]
+```
+**Fact-Checking Results**: [Summary of verified/updated information]
+**Content Enhancement Opportunities**: [Key gaps and improvement areas identified]
+**Fallback Strategies Applied**: [List any fallback strategies used and why]
+
+### Updated Article
+**Article Parameters:**
+- **Original Title**: [Original title]
+- **Updated Title**: [New title if changed]
+- **Original Word Count**: [X words]
+- **Updated Word Count**: [X words]
+- **Primary Keyword**: [From input]
+- **Secondary Keywords**: [From input + research-enhanced]
+- **Tone**: [From input]
+- **Point of View**: [From input]
+
+**Complete Updated Article:**
+[Full rewritten/updated article following all established standards]
+
+### Change Documentation
+**Update Mode Used**: [Quick Assessment | Full Workflow]
+**Key Changes Made:**
+- **Title**: [Kept original | Changed to: "New Title"]
+- **Content Treatment**: [Preserve/Update/Rewrite percentages]
+- **Major Updates**: [List 3-5 most significant changes]
+- **SEO Improvements**: [Keyword optimization, structure enhancements]
+- **Link Changes**: [Any links moved, new links added]
+- **Format Diversity**: [List format elements added]
+- **Research Searches**: [Number of searches conducted]
+- **Word Count**: Original [X] → Updated [X] words
+
+**Link Management Report:**
+**Original Links Preserved:** [Number] / [Total Original Links]
+```
+ORIGINAL LINK PLACEMENT TRACKING:
+1. [Original Anchor Text](URL) → Placed in: [New Section] as [New Anchor Text if changed]
+2. [Original Anchor Text](URL) → Placed in: [New Section] as [New Anchor Text if changed]
+[Continue for all original links]
+```
+
+**New Links Added:** [Number]
+```
+NEW LINKS IMPLEMENTED:
+1. [Anchor Text](URL) - From Research: [Search Query] - Placed in: [Section]
+2. [Anchor Text](URL) - From Research: [Search Query] - Placed in: [Section]
+[Continue for all new links]
+```
+
+**Link Distribution Summary:**
+- **Total Links**: [Final count]
+- **Distribution**: [Links per section breakdown]
+- **Quality Verification**: [Confirm all links go to specific content]
+
+**Format Diversity Report:**
+- **Bullet Lists**: [Number] implemented in sections: [List sections]
+- **Numbered Lists**: [Number] implemented in sections: [List sections]
+- **Tables**: [Number] implemented in sections: [List sections]
+- **Callouts**: [Number] implemented in sections: [List sections]
+- **Distribution**: [Confirm elements spread throughout article]
+
+**Quality Assurance Report:**
+- **Fallback Strategies Used**: [List any applied]
+- **Research Limitations**: [Note any constraints encountered]
+- **Link Quality Verification**: [Confirm all links work and go to specific content]
+- **Format Element Verification**: [Confirm all required elements present]
+
+---
+
+## AI EXECUTION CHECKLIST
+
+**MANDATORY PRE-SUBMISSION VERIFICATION:**
+- [ ] **INPUT VALIDATION COMPLETED** - All required inputs verified
+- [ ] **STEP 0B: CRITICAL LINK INVENTORY COMPLETED** - All original links identified and catalogued IMMEDIATELY after input validation
+- [ ] **ORIGINAL LINKS DOCUMENTED** - Exact count reported (cannot be 0 if links exist in original)
+- [ ] **Update Mode determined** - Quick Assessment or Full Workflow
+- [ ] **STRUCTURAL INTEGRITY CHECK COMPLETED** - Headings and organization assessed
+- [ ] Content salvageability scoring completed (X/40)
+- [ ] **TITLE DECISION EXPLICIT**: "Current title [X/50] vs Best alternative [Y/50] = [DECISION with reasoning]"
+- [ ] Treatment strategy determined and documented
+- [ ] **RESEARCH URLS COLLECTED** - Actual URLs gathered from search results and documented
+- [ ] Research phases completed (maximum 5 searches unless fact-checking requires more)
+- [ ] **FALLBACK STRATEGIES APPLIED**: Any research/quality limitations addressed with documented strategies
+- [ ] **ORIGINAL LINK PRESERVATION VERIFIED**: Every original link from Step 0B inventory appears in new content
+- [ ] **ORIGINAL LINK PLACEMENT DOCUMENTED**: Note where each preserved link was placed in new content
+- [ ] **NEW LINKS IMPLEMENTED**: Research URLs added using markdown format `[anchor text](URL)` with actual working URLs
+- [ ] **LINK QUALITY CONFIRMED**: All links go to specific articles/studies/resources (NOT homepages, category pages, or generic sections)
+- [ ] **LINK DISTRIBUTION CONFIRMED**: 6-8 total links, max 2 per major section, NOT clustered at article end
+- [ ] **FORMAT DIVERSITY IMPLEMENTED**: Minimum 2 bullet lists, 1 numbered list, 1 table, 2 callouts
+- [ ] **FORMAT ELEMENT VERIFICATION**: All required format elements present and properly distributed
+- [ ] Primary keyword optimally integrated 3-4 times
+- [ ] Content matches specified tone and POV consistently
+- [ ] **STRUCTURAL IMPROVEMENTS IMPLEMENTED**: Address identified organizational issues
+- [ ] **LINK MANAGEMENT REPORT COMPLETED**: Document original link preservation and new link implementation
+- [ ] **FORMAT DIVERSITY REPORT COMPLETED**: Document all format elements implemented
+- [ ] Change documentation completed including fallback strategies used
+- [ ] Quality assurance verification completed
+
+---
+
+## DECISION FRAMEWORK
+
+**Quick Assessment Mode:**
+- **Score ≥ 30 + No Major Structural Issues**: Execute light touch updates
+- **Score ≥ 30 + Major Structural Issues**: Execute moderate updates with structural reorganization
+- **Score 20-29**: Execute moderate updates
+- **Score ≤ 19 OR Fundamental Structural Problems**: **RECOMMEND**: "This content requires complete recreation. Please use your Writer prompt to create a fresh article on this topic instead."
+
+**Full Workflow Mode:**
+- **Score ≥ 30 + Minor Structural Issues**: Execute rewrite/update approach
+- **Score ≥ 30 + Major Structural Issues**: Execute hybrid approach with complete structural overhaul
+- **Score 20-29 + Minor/Major Structural Issues**: Execute hybrid approach (preserve content insights, restructure completely)
+- **Score ≤ 19 OR Fundamental Structural Problems**: **RECOMMEND**: "This content requires complete recreation. Please use your Writer prompt to create a fresh article on this topic instead."
+
+This enhanced workflow provides both comprehensive analysis and efficient quick updates while maintaining quality standards for multi-platform performance.
+
+---
+
+*AI-Optimized Content Rewriter & Updater Workflow v3.0 © 2025 Krafty Sprouts Media, LLC*
