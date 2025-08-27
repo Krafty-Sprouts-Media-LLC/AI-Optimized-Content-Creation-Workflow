@@ -1,0 +1,251 @@
+## Title Generation + Article Writing with Integrated Execution Gates v15.0 Web
+
+_Created by Krafty Sprouts Media, LLC_
+
+## INPUT REQUIREMENTS
+
+**Required Information:**
+- **Primary Keyword**: [Insert target keyword]
+
+**Optional Information (Will be auto-populated if not provided):**
+- **Secondary Keywords**: [Insert 2-3 related keywords, comma-separated]
+- **Niche/Category**: [Use comma-separated categories from broad to specific]
+- **Tone**: [Multi-adjective format combining 2-3 descriptors]
+- **Point of View**: [First person, second person, third person, etc.]
+
+**Article Sections/Outline**: [List your desired headings/section structure]
+
+**Internal Links** (Optional): [If you have specific internal URLs for linking, provide them here as: "Internal URLs: url1, url2, url3..."]
+
+**Additional Instructions** (Optional): [Provide any specific customizations, formatting requirements, or content handling preferences]
+
+----------
+
+## EXECUTION INSTRUCTIONS FOR AI
+
+**CRITICAL EXECUTION REQUIREMENT**: You MUST execute this entire workflow in ONE comprehensive response. Complete ALL gates sequentially before providing final output.
+
+**ONLY STOP EXECUTION IF:**
+- Primary keyword is missing or unclear
+- Instructions contain contradictions that cannot be resolved
+- User-provided information appears factually incorrect or potentially harmful
+
+**OTHERWISE:** Do not ask for clarification, do not break into multiple responses, do not skip any gates. Use auto-population and intelligent interpretation to proceed.
+
+----------
+
+## AI EXECUTION CONSTRAINTS
+
+**FORBIDDEN ACTIONS:**
+- Do NOT ask "Would you like me to proceed with Gate X?"
+- Do NOT say "I'll need to search for more information"  
+- Do NOT provide partial outputs or request feedback mid-process
+- Do NOT skip gates due to "insufficient information"
+- Do NOT use placeholder content like "Insert research here"
+- Do NOT cluster links in conclusion or introduction
+- Do NOT use generic phrases like "comprehensive guide" or "ultimate resource"
+
+----------
+
+## GATE 1: INPUT VALIDATION & AUTO-POPULATION
+
+Complete ALL items:
+
+**Primary Keyword Verification**
+- [ ] PRIMARY KEYWORD VERIFIED - Specific and actionable keyword provided
+- IF MISSING: STOP and request primary keyword
+
+**Intelligent Auto-Population Process**
+- If Secondary Keywords NOT provided: Generate 8-10 relevant keywords
+- If Niche/Category NOT provided: Determine from keyword context (hierarchical format)
+- If Tone NOT provided: Analyze keyword for optimal tone combination (2-3 descriptors)
+- If Point of View NOT provided: Determine optimal POV based on content type
+- If Article Outline NOT provided: Create optimized outline based on keyword research
+
+**Additional Instructions Processing**
+- [ ] Extract and catalogue all specific requirements
+- [ ] Map each instruction to relevant article sections
+- [ ] Create implementation strategy for natural integration
+
+**Internal URLs Assessment**
+- [ ] Confirm if internal URLs provided or marked N/A
+- [ ] Plan for contextually relevant internal links if URLs provided
+
+----------
+
+## GATE 2: STRATEGIC RESEARCH & LINK INVENTORY
+
+**Research Execution (3 Targeted Web Searches):**
+
+**Search 1: Competitive Title Analysis**
+- Query: [Primary Keyword] + ["how to" OR "best" OR "guide" OR "tips"]
+- Analyze top results for title patterns and content gaps
+
+**Search 2: Current Information & Expert Sources**
+- Research current trends and user needs for primary keyword
+- Identify credible, up-to-date sources
+
+**Search 3: Niche-Specific Insights**  
+- Query: [Niche] + [Primary Keyword] + ["trends" OR "tips" OR "best practices"]
+- Gather terminology and audience pain points
+
+**CRITICAL: Blended Link Inventory Creation**
+- [ ] External sources: Collect 8–20 specific, accessible sources (studies, tools, expert references)
+- [ ] Internal candidates: If URLs provided, identify matching internal targets
+- [ ] Verify accessibility and relevance
+- [ ] Map candidates to outline sections
+
+----------
+
+## GATE 3: ALGORITHMIC TITLE GENERATION & SELECTION
+
+**Title Generation (8 Required) - Enhanced with Competitive Intelligence:**
+
+Generate titles using proven formulas informed by Gate 2 research:
+
+- **How-to**: "How to [Primary Keyword] [Benefit/Timeframe]" + competitor approaches found
+- **List**: "X [Primary Keyword] [Superlative] for [Target Audience]" + number patterns seen
+- **Question**: "What [Primary Keyword] [Pain Point/Benefit]?" + gaps identified  
+- **Comparison**: "[Primary Keyword] vs [Alternative]: [Unique Angle]" + alternatives found
+- **Problem-solution**: "Why [Common Problem] + How [Primary Keyword] Solves It" + pain points discovered
+- **Benefit-focused**: "[Primary Keyword] That Actually [Desired Outcome]" + outcomes emphasized by competitors
+- **Time-sensitive**: "[Primary Keyword] in [Timeframe]: [Specific Promise]" + effective timeframes found
+- **Mistake-prevention**: "X [Primary Keyword] Mistakes [Target Audience] Make" + common issues found
+
+**Selection Scoring (Rate each title 1-10, total /60):**
+- Search Optimization (vs competitor patterns)
+- Multi-Platform Appeal (vs successful patterns identified) 
+- Deliverability (vs what competitors deliver)
+- Competitive Differentiation (vs Gate 2 analysis)
+- Engagement Triggers (vs competitor triggers)
+- Click-Through Potential (vs high-performing titles)
+
+**Title Selection & Meta Description:**
+- [ ] Select highest scorer automatically
+- [ ] Create compelling 140-160 character meta description with primary keyword in first 100 characters
+
+----------
+
+## GATE 4: CONTENT CREATION WITH PROGRESSIVE VERIFICATION
+
+**Content Standards:**
+
+**Introduction Requirements (150-200 words):**
+- [ ] Hook: Counterintuitive fact, statistic, scenario, or bold statement
+- [ ] Value Promise: Varied approaches (direct benefit, problem-solution, outcome-focused, question-based, or natural flow)
+- [ ] Primary keyword naturally within first 50 words  
+- [ ] First 2-3 sentences work as standalone snippet
+- [ ] Avoid formulaic phrases like "comprehensive guide"
+
+**Blended Linking Strategy - Total Links Scale by Article Length:**
+- **< 1,800 words**: 6–10 total links
+- **1,800–3,200 words**: 10–16 total links  
+- **> 3,200 words**: 16–25 total links
+
+**Priority & Ratio:**
+- Internal links prioritized: target 60–80% internal when URLs provided
+- External links: target 20–40% with minimum 4 authoritative sources
+- If no internal URLs provided, fulfill count with external links only
+
+**Placement & Quality:**
+- Start from first major section, 1–2 links per section
+- Anchor text: 2–4 words, specific, non-generic
+- Format: [anchor text](URL)
+- No homepage links, no "click here", must directly support content
+
+**Body Content Standards:**
+- [ ] Each section begins with reader benefit
+- [ ] Include concrete examples and real-world applications
+- [ ] Integrate research data/quotes with relevance
+- [ ] Provide actionable elements readers can implement
+- [ ] Apply additional instructions naturally during writing
+
+**Required Format Diversity:**
+- [ ] 2-3 bullet lists (features, benefits, key points)
+- [ ] 1-2 numbered lists (sequential processes, ranked items)
+- [ ] 1 table (comparing options, features, specifications)  
+- [ ] 2-3 callout boxes ("Pro Tip:", "Key Takeaway:", "Common Mistake:")
+
+**Keyword Integration:**
+- **Primary Keyword**: 0.5-1.5% density, naturally integrated
+  - Introduction (within first 50 words)
+  - At least 1 subheading where natural
+  - Distributed throughout body content
+- **Secondary Keywords**: 0.1-0.3% density each for 2-3 most relevant keywords
+- **Formatting**: NO mid-sentence bolding, natural emphasis only
+
+**Quality Standards:**
+- [ ] Active voice 80%+
+- [ ] Transition words between ideas
+- [ ] Varied sentence structure (short/medium/long mix)
+- [ ] Paragraph length: 2-4 sentences maximum
+- [ ] Maintain specified tone and POV consistently
+
+----------
+
+## GATE 5: FINAL VERIFICATION & COMPLIANCE
+
+**Final Checks:**
+- [ ] Total links: ___ (MUST be 6–25, scaled by length)
+- [ ] Internal: ___% External: ___% (Target 60-80% internal, 20-40% external, minimum 4 external)
+- [ ] All additional instructions implemented naturally
+- [ ] Keyword density targets met
+- [ ] Format diversity requirements fulfilled
+- [ ] Content fulfills title promise
+- [ ] Sensitive content disclaimer added ONLY if health/legal/financial/safety topics addressed
+
+----------
+
+## AI OUTPUT FORMAT (STREAMLINED)
+
+**Gate Status**
+✅ All Gates Complete
+
+**Auto-Generated Fields (If Any)**
+- Secondary Keywords: [If generated]
+- Niche: [If generated]
+- Tone: [If generated]  
+- POV: [If generated]
+- Outline: [If generated]
+
+**Research Summary**
+[Brief overview of competitive landscape and key insights from 3 searches]
+
+**Generated Titles**
+1. [Title] (Score: X/60)
+2. [Title] (Score: X/60)
+3. [Title] (Score: X/60)
+4. [Title] (Score: X/60)
+5. [Title] (Score: X/60)
+6. [Title] (Score: X/60)
+7. [Title] (Score: X/60)
+8. [Title] (Score: X/60)
+
+**Selected:** [Highest scoring title] (Score: X/60)
+**Meta Description:** [140-160 character description]
+
+**Link Verification**
+- **Total Links:** [Number] (scaled for article length)
+- **Internal:** [Number or N/A] **External:** [Number]  
+- **Ratio:** Internal: [%] External: [%] ✅
+
+**Additional Instructions Applied**
+[For each instruction: Applied in [sections] via [method]]
+
+**Complete Article**
+**Title:** [Selected title]  
+**Meta Description:** [Generated meta description]
+
+[Full article following all established standards with verified compliance]
+
+----------
+
+## CRITICAL SUCCESS REQUIREMENTS
+
+✅ **NEVER skip external links** (minimum 4 mandatory, scaled by length)
+✅ **Complete all gates in single response**  
+✅ **Implement additional instructions during writing process**
+✅ **Use natural keyword integration without forced phrasing**
+✅ **Maintain blended linking ratios and quality standards**
+
+_AI-Optimized Content Creation Workflow v15.0 Web © 2025 Krafty Sprouts Media, LLC_
