@@ -238,16 +238,18 @@ For each title, score on:
 
 ### 3. **Title Selection & Meta Description**
 
--   [ ] **HIGHEST SCORER SELECTED** - Automatic selection based on total score (/60)
--   [ ] **SELECTION REASONING** - Clear explanation of scoring and selection
--   [ ] **META DESCRIPTION CREATED** - Create compelling 140-160 character meta description with primary keyword naturally within first 100 characters
+-   [ ] **PRESENT ALL TITLES** - Display all 8 titles with their scores for user selection
+-   [ ] **USER SELECTION** - Wait for user to select their preferred title from the scored list
+-   [ ] **SELECTION CONFIRMATION** - Confirm selected title and provide selection reasoning based on scoring criteria
+-   [ ] **META DESCRIPTION CREATED** - Create compelling 140-160 character meta description with primary keyword naturally within first 100 characters for the selected title
 
 ### 4. **Gate 3 Completion Verification**
 
 -   [ ] **8 TITLES GENERATED** - All formulas used with competitive enhancement
 -   [ ] **SCORING COMPLETED** - All criteria scored for each title
--   [ ] **SELECTION FINALIZED** - Highest scorer chosen with reasoning
--   [ ] **META DESCRIPTION READY** - Compelling description created
+-   [ ] **TITLES PRESENTED** - All scored titles displayed for user selection
+-   [ ] **USER SELECTION RECEIVED** - User's preferred title confirmed
+-   [ ] **META DESCRIPTION READY** - Compelling description created for selected title
 -   [ ] **GATE 3 COMPLIANCE** - Ready to proceed to content creation
 
 **🚨 GATE 3 COMPLETION REQUIRED: Title generation, scoring, and selection must be complete before proceeding to Gate 4**
@@ -263,7 +265,7 @@ For each title, score on:
 -   [ ] **ADDITIONAL INSTRUCTIONS INTEGRATION PLAN** - Each instruction mapped to specific sections where it applies
 -   [ ] **BLENDED LINK PLACEMENT PLAN** - Where each of 6-25 total links will go based on article length scaling (section by section)
 -   [ ] **INTERNAL LINK ASSESSMENT** - If internal URLs provided, plan editorial-quality placements within total link count
--   [ ] **KEYWORD INTEGRATION PLAN** - Primary keyword density 0.5-1.5%, secondary keywords distributed naturally
+-   [ ] **KEYWORD INTEGRATION PLAN** - Primary keyword density 0.5-1.5%, secondary keywords density 0.1-0.3% per keyword distributed naturally
 
 ### 2. **Content Structure & Standards**
 
