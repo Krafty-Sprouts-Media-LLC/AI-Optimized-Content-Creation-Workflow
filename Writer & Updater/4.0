@@ -1,0 +1,997 @@
+# AI-Optimized Content Rewriter & Updater Workflow v4.0
+## Content Analysis + Title Optimization + Strategic Rewriting + Research Integration + Multi-Platform Optimization
+
+*Enhanced by AI Analysis - Originally Created by Krafty Sprouts Media, LLC*
+
+**VERSION NOTICE:** This is v4.0 with enhanced execution control, advanced keyword integration, progressive quality verification systems, and advanced formatting optimization.
+
+**Note:** This workflow is designed as a complete, self-contained prompt. When pasting elsewhere, ensure the entire workflow is included for proper AI execution and optimal results.
+
+This workflow is designed for AI writers to analyze, update, and optimize existing content while preserving valuable elements and improving overall performance across all platforms.
+
+---
+
+## WORKFLOW BENEFITS
+
+**Integrated AI Approach:**
+- Content viability assessment with streamlined scoring
+- Title evaluation and optimization system
+- Strategic preservation of valuable existing elements
+- **ENHANCED: Multi-format link detection and preservation system**
+- Fresh research integration with flexible fact-checking
+- **NEW: Multi-platform content optimization (search, social, discovery)**
+- **ENHANCED: Advanced format diversity enforcement with mandatory verification**
+- **NEW: Progressive quality control with natural content flow assurance**
+- **NEW: Content type detection and optimization**
+- Algorithmic decision-making with clear metrics
+- Quick assessment mode for simple updates
+
+**End Result:**
+- Professionally updated content that retains original value
+- Optimized titles that work across all platforms
+- **NEW: Content optimized for social sharing and discovery platforms**
+- Improved search rankings + social shareability
+- Enhanced readability and user experience
+- **GUARANTEED: Multi-format link detection with zero link loss**
+- **GUARANTEED: Advanced format diversity with visual engagement elements**
+- **NEW: Natural content flow with section variety assurance**
+- **NEW: Smart disclaimer integration for sensitive content**
+- Clear change documentation for tracking improvements
+
+---
+
+## INPUT REQUIREMENTS
+
+**Required Information:**
+
+**Existing Article Text**: 
+[Insert complete article including headings/outline]
+___
+
+- **Primary Keyword**: [Insert target keyword]
+- **Secondary Keywords**: [Insert 2-3 related keywords, comma-separated]
+- **Niche/Category**: [Insert niche - supports comma-separated categories]
+- **Tone**: [Multi-adjective format combining 2-3 descriptors - e.g., "Appreciative, informative, and light", "Professional but approachable", "Conversational yet authoritative"]
+- **Point of View**: [First person, second person, third person, etc.]
+
+**Optional Specifications:**
+- **Update Mode**: [Quick Assessment | Full Workflow] (Default: Full Workflow)
+- **Specific Update Focus**: [Insert any particular areas needing attention]
+- **Content Goals**: [Maintain length, expand, condense, etc.]
+- **Platform Priority**: [Search-focused | Social-focused | Balanced] (Default: Balanced)
+
+---
+
+## EXECUTION INSTRUCTIONS FOR AI
+
+**CRITICAL EXECUTION REQUIREMENT**: You MUST execute this entire workflow in ONE comprehensive response. Complete ALL steps sequentially before providing final output.
+
+**ONLY STOP EXECUTION IF:**
+- Primary keyword is missing or unclear
+- Instructions contain contradictions that cannot be resolved
+- User-provided information appears factually incorrect or potentially harmful
+
+**OTHERWISE:** Do not ask for clarification, do not break into multiple responses, do not skip any steps. Use intelligent interpretation to proceed.
+
+**FAILURE TO COMPLETE ANY STEP WILL RESULT IN UNUSABLE OUTPUT.**
+
+---
+
+## AI EXECUTION CONSTRAINTS
+
+**FORBIDDEN ACTIONS:**
+- Do NOT ask "Would you like me to proceed with Step X?"
+- Do NOT say "I'll need to search for more information"
+- Do NOT provide partial outputs or request feedback mid-process
+- Do NOT skip steps due to "insufficient information"
+- Do NOT use placeholder content like "Insert research here"
+- Do NOT cluster links in conclusion or introduction
+- Do NOT use generic phrases like "comprehensive guide" or "ultimate resource"
+
+---
+
+### STEP 0: INPUT VALIDATION (MANDATORY FIRST STEP)
+
+**BEFORE PROCEEDING WITH ANY ANALYSIS OR CONTENT CREATION:**
+
+1. **Verify ALL Required Inputs Are Complete:**
+   - [ ] Existing Article Text: Must contain actual content with headings/outline
+   - [ ] Primary Keyword: Must be specific and actionable
+   - [ ] Secondary Keywords: Must include 2-3 related keywords
+   - [ ] Niche/Category: Must be clearly defined
+   - [ ] Tone: Must be specified in multi-adjective format
+   - [ ] Point of View: Must be clearly stated
+
+2. **If ANY Input is Missing, Incomplete, or Contains Placeholder Text:**
+   - **STOP IMMEDIATELY**
+   - **DO NOT PROCEED** with analysis or content creation
+   - **RESPOND WITH:** "I cannot proceed with the content rewriter workflow because the following inputs are missing or incomplete: [List specific issues]"
+   - **REQUEST:** "Please provide the missing information so I can execute the complete workflow."
+
+3. **Only After ALL Inputs Are Validated as Complete:**
+   - **IMMEDIATELY EXECUTE STEP 0B: ENHANCED LINK INVENTORY**
+   - Determine Update Mode (Quick Assessment or Full Workflow)
+   - Proceed to appropriate workflow path
+
+### STEP 0B: ENHANCED LINK INVENTORY (MANDATORY - EXECUTE IMMEDIATELY AFTER INPUT VALIDATION)
+
+**EXECUTE THIS BEFORE ANY OTHER ANALYSIS:**
+
+**MULTI-FORMAT LINK DETECTION PROTOCOL:**
+1. **COMPREHENSIVE SCAN**: Read through every paragraph of the original article
+2. **MULTI-FORMAT DETECTION**: Search for links in ALL possible formats:
+   - **HTML Links**: `<a href="URL">Anchor Text</a>`
+   - **Markdown Links**: `[Anchor Text](URL)`
+   - **Plain URLs**: `http://` or `https://` patterns
+   - **WordPress Shortcodes**: `[link url="URL"]text[/link]` or similar
+   - **Bare URLs**: URLs without formatting that appear in text
+3. **CATALOG EACH LINK**: Record in standardized format: `[Anchor Text](URL)` + Section Location
+4. **CREATE MASTER LIST**: Maintain this list throughout entire workflow
+5. **VERIFY COUNT**: State exact number of links found with detection method
+
+**ENHANCED LINK INVENTORY FORMAT:**
+```
+ORIGINAL LINKS FOUND: [Number] - Detection Methods Used: [List formats detected]
+1. [Anchor Text](URL) - Located in: [Section Name] - Format: [HTML/Markdown/Plain/etc.]
+2. [Anchor Text](URL) - Located in: [Section Name] - Format: [HTML/Markdown/Plain/etc.]
+[Continue for all links]
+```
+
+**DETECTION VERIFICATION:**
+- **If 0 links found**: Double-check article for URLs, website names, or references that might be links
+- **If links are visible but not detected**: Report detection limitation and manually catalog visible links
+- **WordPress/CMS Note**: If content copied from WordPress/CMS, scan for platform-specific link formats
+
+**PRESERVATION COMMITMENT:**
+- **MANDATORY**: Every single link from this inventory MUST appear in final article
+- **ZERO TOLERANCE**: No original links can be lost during rewriting
+- **ADAPTATION ALLOWED**: Anchor text can be modified, but URLs must remain identical
+- **TRACKING REQUIRED**: Document where each original link was placed in new content
+
+---
+
+## FAILURE PROTOCOLS - MANDATORY RESTART CONDITIONS
+
+**CRITICAL FAILURE POINTS - RESTART REQUIRED:**
+- **LINK INVENTORY FAILURE**: If original article contains visible links/URLs but "0 links found" is reported, RESTART required
+- **LINK PRESERVATION FAILURE**: If ANY original link is missing from final output, RESTART required
+- **LINK IMPLEMENTATION FAILURE**: If "new links added" is claimed but no actual URLs are provided, RESTART required
+- **FORMAT DIVERSITY FAILURE**: If final article lacks required format elements (lists, tables, callouts), RESTART required
+- **NATURAL CONTENT FLOW FAILURE**: If final article shows repetitive template structures across sections, RESTART required
+- **MULTI-PLATFORM FAILURE**: If content lacks required shareability elements, RESTART required
+- **TITLE DECISION FAILURE**: If AI outputs final title without explicit scoring comparison and decision reasoning, RESTART required
+- **STRUCTURAL INTEGRITY FAILURE**: If AI proceeds without completing structural integrity check, RESTART required
+
+**RESTART PROTOCOL:**
+"This output does not meet workflow requirements. Please restart and ensure you:
+1. Execute STEP 0B: ENHANCED LINK INVENTORY with multi-format detection
+2. Report exact number of original links found (use manual cataloging if detection fails)
+3. Preserve every original link in final content with documentation
+4. Implement actual URLs for new links (not placeholders)
+5. Include all required format elements (lists, tables, callouts, visual hierarchy)
+6. Ensure natural content flow with section variety (no repetitive templates)
+7. Implement multi-platform shareability elements
+8. Complete structural integrity check before content scoring
+9. Explicitly compare title scores and justify decision"
+
+---
+
+## QUICK ASSESSMENT MODE
+
+**For Simple Updates (When specified or content needs minimal changes):**
+
+### Quick Step 1: Rapid Content Analysis
+**Streamlined Scoring (Rate each category 1-10, total /40):**
+- **Content Quality**: Writing clarity, grammar, engagement, readability
+- **SEO Foundation**: Keyword optimization, structure, search intent alignment
+- **Currency/Accuracy**: Current data, relevant examples, up-to-date information
+- **Unique Value**: Original insights, competitive differentiation, completeness
+
+**Content Type Detection & Optimization:**
+- **AUTO-DETECT CONTENT TYPE** - Analyze existing content structure:
+  * **Article**: Educational, informational content with balanced sections
+  * **Listicle**: Numbered items with consistent formatting  
+  * **Guide**: Step-by-step processes and instructions
+  * **Review**: Product/service evaluations with comparisons
+- **TYPE-SPECIFIC ENHANCEMENTS** - Apply content type optimizations during rewriting:
+  * **Listicle**: Enhanced numbered formatting with visual separation
+  * **Review**: Comprehensive comparison matrices and scoring systems  
+  * **Guide**: Step-by-step visualization with troubleshooting callouts
+  * **Article**: Balanced formatting with educational focus
+
+**Quick Decision Matrix:**
+- **Score ≥ 30 + No Major Structural Issues**: Light touch updates (facts, examples, minor improvements)
+- **Score ≥ 30 + Major Structural Issues**: Moderate updates with structural reorganization
+- **Score 20-29**: Moderate updates (section rewrites, structure improvements)
+- **Score ≤ 19 OR Fundamental Structural Problems**: **RECOMMEND**: "This content requires complete recreation. Please use your Writer prompt to create a fresh article on this topic instead."
+
+### Quick Step 2: Title & Content Updates
+**Title Evaluation & Decision (MANDATORY):**
+- **Score existing title** using 5-criteria system (1-10 each, total /50)
+- **Generate 2-3 alternatives** if current title scores ≤ 35/50
+- **Title Selection Decision**: Apply 3+ point rule for decision making
+- **EXPLICIT DOCUMENTATION**: "Current title [X/50] vs Best alternative [Y/50] = [DECISION with reasoning]"
+
+**Structural Assessment (MANDATORY):**
+- **Quick structural check** using same criteria as Full Workflow
+- **Address structural issues** based on decision matrix above
+
+**Multi-Platform Quick Optimization:**
+- **Add 2-3 quotable insights** for social sharing
+- **Ensure subheadings work as standalone hooks**
+- **Include 1-2 surprising statistics** for shareability
+
+**Priority Updates:** Focus on outdated facts, broken links, keyword optimization, structural improvements
+
+**ENHANCED LINK MAINTENANCE:**
+- **Preserve ALL original links** from Step 0B inventory
+- **Add 2-3 new links** with actual URLs if total below 6
+- **Verify link distribution** (no clustering)
+
+**ADVANCED FORMAT DIVERSITY ENFORCEMENT:**
+- **MANDATORY**: Include minimum 2 bullet lists, 1 numbered list, 1 table, 2 callouts
+- **ADVANCED VISUAL HIERARCHY**: Use H3 subheadings within major sections for better organization
+- **STRUCTURED CALLOUT BOXES**: Distribute throughout article (1 per 500-750 words):
+  * **"Pro Tip:"** - Expert advice or insider knowledge
+  * **"Key Insight:"** - Important takeaways or discoveries  
+  * **"Important Note:"** - Critical warnings or clarifications
+  * **"Common Mistake:"** - Pitfalls to avoid
+- **VERIFICATION**: Confirm each element is present in final output
+
+**PROGRESSIVE QUALITY VERIFICATION POINTS (Quick Mode):**
+After each major section update, verify:
+- [ ] **SECTION ADDS UNIQUE VALUE** - Content provides new insights, not just filler
+- [ ] **LINKS ARE CONTEXTUALLY RELEVANT** - Each link directly supports content in that section
+- [ ] **NO AI-SOUNDING PHRASES** - Avoid robotic language and generic expressions
+- [ ] **TONE CONSISTENCY MAINTAINED** - Multi-adjective tone blend consistent throughout section
+- [ ] **NATURAL SECTION STRUCTURE** - Section organization appropriate to its specific content, avoiding template repetition
+
+---
+
+## FULL WORKFLOW MODE
+
+### STEP 1: Initial Research & Competitive Analysis
+
+**Strategic Research (Maximum 5 searches unless additional fact-checking is critical for accuracy):**
+- **Search 1**: [Primary Keyword] + "2024" OR "2025" OR "guide" - Current competitive landscape
+  - **COLLECT URLS**: Note specific URLs from results that can be used for linking
+  - **URL EXTRACTION**: Copy exact URLs from search results, not descriptions
+- **Search 2**: [Primary Keyword] + "statistics" OR "data" OR "study" - Fact-checking resources
+  - **COLLECT URLS**: Note specific URLs from research studies, data sources, expert articles
+  - **URL EXTRACTION**: Copy exact URLs from search results, not descriptions
+
+**Additional Searches (As needed based on initial findings):**
+- **Search 3+**: Target specific outdated claims or missing information identified
+  - **COLLECT URLS**: Continue building list of linkable sources
+  - **URL EXTRACTION**: Copy exact URLs from search results, not descriptions
+- **FACT-CHECKING FLEXIBILITY**: Additional searches beyond 5 are permitted when accuracy verification is critical
+- **LINK COLLECTION GOAL**: Gather 6-8 relevant, specific URLs for implementation
+
+**RESEARCH URL TRACKING:**
+```
+EXTERNAL RESEARCH URLS COLLECTED:
+1. [URL] - From Search: [Query] - Topic: [Description]
+2. [URL] - From Search: [Query] - Topic: [Description]
+[Continue for all external URLs]
+
+INTERNAL LINK CANDIDATES (if provided):
+1. [Internal URL] - From: [Provided list OR Sitemap discovery] - Topic: [Description]  
+2. [Internal URL] - From: [Provided list OR Sitemap discovery] - Topic: [Description]
+[Continue for all internal candidates]
+```
+
+### STEP 2: Content Viability Assessment
+
+**Content Type Detection & Optimization:**
+- **AUTO-DETECT CONTENT TYPE** - Analyze existing content structure:
+  * **Article**: Educational, informational content with balanced sections
+  * **Listicle**: Numbered items with consistent formatting  
+  * **Guide**: Step-by-step processes and instructions
+  * **Review**: Product/service evaluations with comparisons
+- **TYPE-SPECIFIC ENHANCEMENTS** - Apply content type optimizations during rewriting:
+  * **Listicle**: Enhanced numbered formatting with visual separation
+  * **Review**: Comprehensive comparison matrices and scoring systems  
+  * **Guide**: Step-by-step visualization with troubleshooting callouts
+  * **Article**: Balanced formatting with educational focus
+
+**Structural Integrity Check (MANDATORY FIRST):**
+- **Heading Logic**: Do headings support the article's main purpose and target keyword?
+- **Organizational Flow**: Is the sequence logical and user-friendly (alphabetical, importance, process-based)?
+- **Content Accuracy**: Are all headings/topics factually correct and relevant to the niche?
+- **Naming Consistency**: Are headings formatted consistently throughout?
+- **Completeness**: Are there obvious gaps or questionable inclusions?
+
+**Structural Issues Assessment:**
+- [ ] **Illogical organization/sequence** (random order, no clear logic)
+- [ ] **Inconsistent naming conventions** (mixed formats, parenthetical inconsistencies)
+- [ ] **Questionable/inaccurate headings** (suspect topics, factual errors)
+- [ ] **Missing essential topics** (obvious gaps in coverage)
+- [ ] **Irrelevant inclusions** (off-topic or tangential content)
+
+**Structural Treatment Decision:**
+- **Minor Issues (1-2 checkboxes)**: Fix naming consistency, reorder logically during rewrite
+- **Major Issues (3-4 checkboxes)**: Complete structural overhaul required
+- **Fundamental Problems (5 checkboxes)**: **RECOMMEND**: "This content structure is fundamentally flawed. Please use your Writer prompt to create a fresh article with proper organization instead."
+
+**Streamlined Scoring (Rate each category 1-10, total /40):**
+- **Content Quality**: Writing clarity, grammar, engagement, readability, logical flow
+- **SEO Foundation**: Keyword integration, meta-optimized structure, search intent alignment
+- **Currency/Accuracy**: Current statistics, relevant examples, up-to-date information, factual correctness
+- **Unique Value**: Original insights, distinctive angles, proprietary information, competitive differentiation
+
+**Analysis Categories:**
+- **Content Archaeology**: Identify valuable buried insights that may be poorly presented
+- **Structural Issues**: Note formatting inconsistencies, poor transitions, logical gaps
+- **Outdated Elements**: Flag statistics, examples, tool recommendations, policy changes
+- **Writing Quality Issues**: Grammar errors, awkward phrasing, unclear explanations
+- **Link Assessment**: Identify broken links, poorly placed links, missing link opportunities
+- **Shareability Assessment**: Evaluate quotable content, social media potential, discovery platform appeal
+
+**Decision Matrix:**
+- **Salvageability Score ≥ 30 + Minor Structural Issues**: Rewrite/Update approach
+- **Salvageability Score ≥ 30 + Major Structural Issues**: Hybrid approach with complete structural overhaul
+- **Salvageability Score 20-29 + Minor/Major Structural Issues**: Hybrid approach (preserve content insights, restructure completely)
+- **Salvageability Score ≤ 19 OR Fundamental Structural Problems**: **RECOMMEND**: "This content requires complete recreation. Please use your Writer prompt to create a fresh article on this topic instead."
+
+### STEP 3: Title Evaluation & Optimization
+
+**Current Title Analysis:**
+- **Score existing title** using 5-criteria system (1-10 each, total /50):
+  - Search Optimization (keyword placement, search intent match)
+  - Multi-Platform Appeal (works for search engines, social feeds, discovery platforms)
+  - Deliverability (can content fulfill the promise?)
+  - Competitive Differentiation (unique angle vs current top results)
+  - Engagement Triggers (emotional hooks, curiosity gaps)
+
+**Alternative Title Generation (Generate 3-5 alternatives using proven formulas):**
+1. How-to: "How to [Primary Keyword] [Benefit/Timeframe]"
+2. List: "X [Primary Keyword] [Superlative] for [Target Audience]"
+3. Question: "What [Primary Keyword] [Pain Point/Benefit]?"
+4. Comparison: "[Primary Keyword] vs [Alternative]: [Unique Angle]"
+5. Problem-solution: "Why [Common Problem] + How [Primary Keyword] Solves It"
+
+**Title Selection Decision Matrix:**
+- **Keep Current Title**: Only if current title scores ≥ 40/50 AND no alternative exceeds it by 3+ points
+- **Switch to Alternative**: If any alternative scores 3+ points higher than current title, OR if current title scores < 40/50 and alternatives exist
+- **MANDATORY**: Always choose the highest-scoring option when the difference is 3+ points
+- **TIE-BREAKER**: If scores are within 2 points, prefer the alternative for freshness
+
+**Title Selection Process:**
+1. Score current title and all alternatives
+2. Apply decision matrix above
+3. **EXPLICITLY STATE**: "Based on scoring: Current [X/50] vs Best Alternative [Y/50] = [DECISION]"
+
+### STEP 4: Enhanced Research & Fact-Checking
+
+**Research Phase A: Content Enhancement**
+- Query: [Primary Keyword] + [Secondary Keywords] + "latest" OR "trends"
+- Gather fresh examples, case studies, expert quotes
+- Identify improvement opportunities from competitive analysis
+
+**Research Phase B: Niche-Specific Updates**
+- Query: [Niche] + [Primary Keyword] + "2024" OR "2025"
+- Identify industry changes, new best practices, emerging trends
+- Skip if Phase A provides sufficient niche coverage
+
+**Flexible Fact-Checking Protocol:**
+- **Additional targeted searches** as needed for verification of specific claims
+- **No hard limit** on fact-checking searches when accuracy is critical
+- **Document research limitations** if comprehensive fact-checking isn't possible
+
+### STEP 5: Multi-Platform Content Strategy
+
+**NEW: Multi-Platform Optimization Assessment**
+- **Social Media Shareability**: Identify quotable insights, statistics, and surprising facts
+- **Discovery Platform Appeal**: Evaluate hook potential of subheadings and content sections
+- **Visual Content Opportunities**: Note content that would benefit from visual representation
+- **Engagement Triggers**: Identify controversial or discussion-worthy points
+
+**Platform-Specific Content Elements:**
+- **Social Media Optimization**:
+  - Quotable statistics and insights (2-3 per major section)
+  - Surprising or counterintuitive facts
+  - Visual content descriptions for image sharing
+  - Compelling pull-quotes that work as social posts
+  
+- **Discovery Platform Optimization** (Pinterest, Reddit, etc.):
+  - Hook-heavy introductions that create curiosity gaps
+  - Benefit-focused subheadings that work as standalone posts
+  - Problem-solution frameworks that drive engagement
+  - Controversial or debate-worthy insights (when appropriate)
+
+- **Voice Search Consideration** (Integrated into natural writing):
+  - Conversational phrasing where natural
+  - FAQ-style sections when appropriate
+  - Question-based subheadings when logical
+  - **Note**: Voice search optimization should NOT override natural writing or SEO best practices
+
+### STEP 6: Content Treatment Strategy
+
+**Preserve (Keep As-Is):**
+- Well-written sections with accurate, current information
+- Unique insights or proprietary information
+- Effective examples that remain relevant
+- Properly optimized headings and structure
+- **NEW**: Existing quotable content with high shareability
+
+**Update (Modify Existing):**
+- Current statistics with newer data
+- Outdated examples with fresh alternatives
+- Tool recommendations with current options
+- Policy or regulation changes
+- **NEW**: Good content that needs shareability enhancement
+
+**Rewrite (Completely Rework):**
+- Sections with poor grammar or unclear explanations
+- Awkward transitions and logical gaps
+- Poorly structured paragraphs
+- Content that doesn't match specified tone/POV
+- **NEW**: Content with low engagement potential
+
+**Replace (Remove and Substitute):**
+- Completely outdated information
+- Irrelevant examples or case studies
+- Broken concepts or deprecated practices
+- **NEW**: Content that cannot be made shareable or engaging
+
+### STEP 7: Strategic Content Rewriting with Multi-Platform Optimization
+
+**MANDATORY LINK PRESERVATION PROTOCOL:**
+
+**ORIGINAL LINKS VERIFICATION:**
+- **REFERENCE STEP 0B INVENTORY**: Use the enhanced link inventory created at the beginning
+- **VERIFY INVENTORY**: Confirm all links from Step 0B are accounted for
+- **PRESERVATION COMMITMENT**: Every link from inventory must appear in final content
+
+**CONTENT REWRITING WITH ACTIVE LINK MIGRATION:**
+- **DURING REWRITING**: Actively place each preserved link in new content
+- **CONTEXTUAL PLACEMENT**: Place each link in most relevant new section
+- **ANCHOR TEXT ADAPTATION**: If original anchor text no longer fits, adapt but keep same URL
+- **PLACEMENT DOCUMENTATION**: Note where each original link was placed
+
+**ENHANCED NEW LINK IMPLEMENTATION:**
+- **USE RESEARCH URLS**: Reference Step 1 Research URL Tracking list
+- **ACTUAL URL REQUIREMENT**: Must use real URLs collected during research
+- **FLEXIBLE LINK FORMAT**: Implement links in requested format (HTML `<a href="">`, Markdown `[text](URL)`, or plain URLs) - default to markdown unless specified otherwise
+- **NO PLACEHOLDERS**: Never use generic descriptions - must be working links
+- **VERIFICATION**: Ensure each new link goes to specific content, not homepages
+- **EDITORIAL QUALITY**: Link only when it genuinely enhances reader value
+
+**LINK DISTRIBUTION REQUIREMENTS:**
+- **TOTAL COUNT**: 6-8 links total (original + new)
+- **SECTION DISTRIBUTION**: Max 2 links per major section
+- **NO CLUSTERING**: Avoid placing all links at article end
+- **QUALITY OVER QUANTITY**: Focus on editorial value, not meeting quotas
+
+**ADVANCED FORMAT DIVERSITY + MULTI-PLATFORM OPTIMIZATION:**
+
+**CRITICAL: Advanced Format Diversity Requirements - Apply Throughout Article:**
+
+- **ENHANCED COMPARISON TABLES** - When comparing 2+ items with multiple attributes:
+  * Create detailed comparison tables with row/column structure
+  * Include relevant metrics, features, or criteria
+  * Example: Product comparisons, feature analysis, pros/cons matrices
+
+- **STRUCTURED CALLOUT BOXES** - Distribute throughout article (aim for 1 per 500-750 words):
+  * **"Pro Tip:"** - Expert advice or insider knowledge
+  * **"Key Insight:"** - Important takeaways or discoveries  
+  * **"Important Note:"** - Critical warnings or clarifications
+  * **"Common Mistake:"** - Pitfalls to avoid
+  * Format as visually distinct elements
+
+- **NUMBERED PROCESS LISTS** - For step-by-step procedures:
+  * Sequential processes (1, 2, 3...)
+  * Ranked items (best to worst)
+  * Priority-based lists
+  * Installation or setup procedures
+
+- **BULLET POINT LISTS** - For non-sequential information:
+  * Features and benefits
+  * Key characteristics
+  * Requirements or prerequisites  
+  * Tips and recommendations
+
+- **ADVANCED VISUAL HIERARCHY** - Enhanced subheading structure:
+  * Use H3 subheadings within major sections for better organization
+  * Create scannable content with clear information architecture
+  * Break up long sections with descriptive subheadings
+
+- **FAQ INTEGRATION** - Add dedicated FAQ section at article end (not as separate heading) with structured Q&A format **when relevant to search intent and topic complexity**
+
+**CRITICAL CONTENT FLOW REQUIREMENTS:**
+- **NATURAL SECTION ORGANIZATION** - Each major section should have unique internal structure based on its specific content and purpose
+- **AVOID REPETITIVE TEMPLATES** - Do NOT create identical subsection patterns like "Identification: / Where to Find: / Tips:" for every major section
+- **CONTENT-DRIVEN STRUCTURE** - Let the natural content determine section organization rather than forcing artificial patterns
+- **VARIED PRESENTATION** - Use different approaches for different sections:
+  * Some sections: Natural paragraph flow with integrated formatting
+  * Some sections: Process-oriented with numbered steps
+  * Some sections: Comparison-focused with tables/lists
+  * Some sections: Narrative-style with examples and case studies
+- **ORGANIC FORMATTING INTEGRATION** - Weave formatting elements naturally into content rather than creating forced structural patterns
+
+**Multi-Platform Content Standards:**
+
+**Social Media Shareability Implementation:**
+- **Quotable Statistics**: Include 2-3 surprising or impressive statistics per major section
+- **Pull-Quote Opportunities**: Create 3-5 standalone insights that work as social media posts
+- **Visual Content Descriptions**: Describe processes, comparisons, or data in visual-friendly language
+- **Engagement Hooks**: Include controversial or discussion-worthy points where appropriate
+
+**Discovery Platform Optimization:**
+- **Hook-Heavy Subheadings**: Ensure subheadings create curiosity and work as standalone hooks
+- **Benefit-Focused Language**: Emphasize outcomes and benefits throughout content
+- **Problem-Solution Framework**: Structure content to clearly address pain points
+- **Curiosity Gaps**: Create anticipation and "what happens next" moments
+
+**Voice Search Integration (Natural Implementation):**
+- **Conversational Phrasing**: Use natural, conversational language where appropriate
+- **FAQ-Style Sections**: Include question-based subheadings when logical for topic
+- **Question-Answer Format**: Structure some content as direct answers to common questions
+- **Natural Language Flow**: Prioritize readability over keyword density
+
+**ENHANCED KEYWORD INTEGRATION & SEO OPTIMIZATION:**
+
+**Primary Keyword Requirements:**
+- [ ] **NATURAL INTEGRATION** - Primary keyword appears naturally achieving 0.5-1.5% density
+- [ ] **GRAMMATICAL FLEXIBILITY** - Use natural variations when exact form creates awkward phrasing
+- [ ] **STRATEGIC PLACEMENT** - Introduction (within first 50 words), at least 1 subheading (H2 or H3) where it fits naturally, distributed naturally throughout body content
+- [ ] **DENSITY TARGET** - 0.5-1.5% of total word count achieved
+- [ ] **CONTEXTUAL PRIORITY** - Natural context prioritized over exact matching
+
+**Secondary Keywords Requirements:**
+- [ ] **SEMANTIC INTEGRATION** - Keywords used where they naturally enhance content meaning
+- [ ] **DENSITY TARGET** - 0.1-0.3% per keyword with strategic prioritization
+- [ ] **INTEGRATION STRATEGY** - 2-3 most relevant secondary keywords used regularly, remaining keywords incorporated naturally where contextually appropriate
+- [ ] **NATURAL VARIATIONS** - Use variations that maintain semantic meaning and search intent, focus on value to ensure keywords add value to reader experience
+
+**Keyword Formatting Guidelines:**
+- [ ] **NO MID-SENTENCE BOLDING** - Never bold keywords within sentence flow
+- [ ] **NATURAL EMPHASIS** - Only bold keywords when they appear naturally in headings or emphasis points
+- [ ] **READABILITY FIRST** - Prioritize smooth reading experience over keyword highlighting
+- [ ] **CONTEXTUAL BOLDING** - Bold keywords only when emphasis serves the content (headings, key points, definitions)
+
+**Additional SEO Elements:**
+- [ ] **SEMANTIC VARIATIONS** - Include semantic variations and question-based phrases
+- [ ] **LSI TERMS** - Add semantic keywords and LSI terms from research
+- [ ] **QUESTION-BASED SUBHEADINGS** - Use question-based subheadings when natural
+- [ ] **FAQ CONTENT** - Include FAQ-style content if relevant to search intent
+- [ ] **NATURAL FLOW** - Prioritize natural flow while maintaining keyword density targets
+
+**ENHANCED TONE ADAPTATION:**
+
+**Multi-Adjective Tone Implementation:**
+- [ ] **TONE ANALYSIS** - Break down multi-adjective tone into component elements
+- [ ] **SEAMLESS BLENDING** - Blend all specified tone qualities throughout content naturally
+- [ ] **CONSISTENCY MAINTAINED** - Maintain tone consistency across all sections
+- [ ] **NATURAL TRANSITIONS** - Avoid jarring tone shifts between sections
+
+**Tone Implementation Examples:**
+- **"Appreciative, informative, and light"**:
+  - Appreciative: "Thanks for bringing this up...", "Great question about..."
+  - Informative: Evidence-based explanations, clear educational content
+  - Light: Conversational language, friendly phrasing, avoiding heavy formality
+
+- **"Professional but approachable"**:
+  - Professional: Polished content, credible sources, industry terminology
+  - Approachable: Relatable examples, clear explanations, avoiding intimidating jargon
+
+- **"Conversational yet authoritative"**:
+  - Conversational: Friendly language, accessible explanations
+  - Authoritative: Expert-backed information, confident recommendations, credible sources
+
+**Content Standards Application:**
+
+**Introduction Treatment:**
+- Preserve effective hooks, update with current data if needed
+- Maintain value promise while improving clarity
+- Ensure primary keyword integration within first 50 words
+- Optimize first 2-3 sentences for social sharing
+- **NEW**: Include shareable statistic or surprising fact in introduction
+
+**Body Section Treatment:**
+- Apply content treatment strategy (preserve/update/rewrite/replace)
+- Maintain logical section flow while improving transitions
+- Integrate fresh research findings and examples
+- Ensure each section delivers specific benefits
+- **IMPLEMENT ADVANCED FORMAT DIVERSITY**: Add required format elements
+- **NEW**: Include quotable insight in each major section
+- **NEW**: Ensure subheadings work as standalone social media hooks
+
+**PROGRESSIVE QUALITY VERIFICATION POINTS:**
+After each major section rewrite, verify:
+- [ ] **SECTION ADDS UNIQUE VALUE** - Content provides new insights, not just filler
+- [ ] **LINKS ARE CONTEXTUALLY RELEVANT** - Each link directly supports content in that section
+- [ ] **ADDITIONAL INSTRUCTIONS APPLIED** - Relevant tone and style requirements integrated naturally
+- [ ] **NO AI-SOUNDING PHRASES** - Avoid robotic language and generic expressions
+- [ ] **TONE CONSISTENCY MAINTAINED** - Multi-adjective tone blend consistent throughout section
+- [ ] **KEYWORD INTEGRATION NATURAL** - Keywords placed naturally without forced phrasing
+- [ ] **ADVANCED FORMAT DIVERSITY ADDED** - Required format elements distributed appropriately
+- [ ] **NATURAL SECTION STRUCTURE** - Section organization appropriate to its specific content, avoiding template repetition
+
+### STEP 8: Quality Assurance & Multi-Platform Optimization
+
+**Content Quality Verification:**
+- Consistent formatting and structure throughout
+- Logical flow between all sections
+- Factual accuracy of all claims and statistics
+- Proper grammar, spelling, and punctuation
+- Readability appropriate for target audience
+- **NEW**: Shareability elements properly integrated
+- **NEW**: Natural content flow with section variety confirmed
+
+**SEO Optimization Check:**
+- Keyword integration maintains or improves optimization
+- Meta-optimized structure preserved/enhanced
+- Internal linking strategy supports user experience
+- Content satisfies search intent for target keywords
+- **NEW**: SEO optimization doesn't compromise shareability
+
+**Link Ecosystem Health:**
+- **ORIGINAL LINKS**: All links from Step 0B inventory preserved and documented
+- **NEW LINKS**: All research URLs implemented with actual working links
+- **DISTRIBUTION**: 6-8 total links strategically distributed
+- **QUALITY**: No broken or redirected URLs, relevant anchor text
+- **EDITORIAL VALUE**: Each link genuinely enhances reader experience
+
+**ADVANCED FORMAT DIVERSITY VERIFICATION:**
+- **BULLET LISTS**: Minimum 2 present and properly formatted
+- **NUMBERED LISTS**: Minimum 1 present and properly formatted
+- **ENHANCED COMPARISON TABLES**: Present when comparing 2+ items with multiple attributes
+- **STRUCTURED CALLOUTS**: Minimum 2 present with valuable insights (Pro Tip, Key Insight, Important Note, Common Mistake)
+- **ADVANCED VISUAL HIERARCHY**: H3 subheadings within major sections for better organization
+- **DISTRIBUTION**: Format elements spread throughout article
+
+**SENSITIVE CONTENT EVALUATION:**
+- **CONTENT-INFORMED SENSITIVE CONTENT DETECTION** - Add disclaimers ONLY when content directly addresses:
+  * Medical/Health: Specific health conditions, treatments, symptoms, medical procedures
+  * Legal: Legal interpretation, specific legal situations, laws, regulations  
+  * Financial: Investment advice, financial planning, specific financial products
+  * Safety: Potentially dangerous activities, chemicals, equipment, or procedures
+- **NO DISCLAIMERS FOR GENERAL CONTENT** - Do not add disclaimers to lifestyle, technology, business, or educational content
+- **APPROPRIATE DISCLAIMER ADDED** - If sensitive content detected, add region-appropriate disclaimer
+
+**NEW: MULTI-PLATFORM OPTIMIZATION VERIFICATION:**
+- **QUOTABLE CONTENT**: Minimum 3 quotable insights properly formatted
+- **SOCIAL SHAREABILITY**: Statistics and surprising facts included
+- **DISCOVERY PLATFORM APPEAL**: Hook-heavy subheadings that work standalone
+- **VISUAL CONTENT OPPORTUNITIES**: Content described in visual-friendly language
+- **ENGAGEMENT TRIGGERS**: Controversial or discussion-worthy points included where appropriate
+
+---
+
+## FALLBACK STRATEGIES
+
+**Limited Research Results:**
+- **TRIGGER**: When searches return insufficient or low-quality results
+- **ACTION**: Use available sources for fact-checking priority, focus on structural and writing improvements
+- **DOCUMENTATION**: Note research limitations in final documentation
+
+**Extensive Outdated Content:**
+- **TRIGGER**: When >60% of content contains outdated information
+- **ACTION**: Prioritize factual accuracy over preservation, replace outdated sections with current information
+- **DOCUMENTATION**: Document significant content changes and justification
+
+**Poor Original Structure:**
+- **TRIGGER**: When logical flow issues affect content comprehension
+- **ACTION**: Maintain logical flow while improving organization, preserve valuable insights in better structure
+- **DOCUMENTATION**: Note structural improvements in documentation
+
+**Broken Link Ecosystem:**
+- **TRIGGER**: When >50% of existing links are broken or irrelevant
+- **ACTION**: Identify and note broken links for manual review, preserve link placement structure, focus on adding high-quality replacement links
+- **DOCUMENTATION**: List broken links and replacement strategy
+
+**Insufficient Research URLs:**
+- **TRIGGER**: When research yields fewer than 3-4 quality URLs for linking
+- **ACTION**: Conduct additional targeted searches for specific topics, use authoritative sources even if not perfectly aligned
+- **DOCUMENTATION**: Note research limitations and source quality compromises
+
+**NEW: Low Shareability Content:**
+- **TRIGGER**: When original content lacks quotable insights or engaging elements
+- **ACTION**: Focus on adding statistics, surprising facts, and engaging subheadings during rewrite process
+- **DOCUMENTATION**: Note shareability enhancements made
+
+**NEW: Link Detection Failure:**
+- **TRIGGER**: When multi-format detection fails to find visible links
+- **ACTION**: Manually catalog all visible URLs and website references in content
+- **DOCUMENTATION**: Note detection method limitations and manual intervention used
+
+**NEW: Repetitive Template Detection:**
+- **TRIGGER**: When original content shows identical subsection patterns across multiple sections
+- **ACTION**: Restructure each section based on its specific content needs and purpose
+- **DOCUMENTATION**: Note structural variety improvements made
+
+**Keyword Integration Challenges:**
+- **TRIGGER**: When exact keyword matches create awkward phrasing
+- **ACTION**: Use natural variations that maintain search intent, prioritize readability while maintaining density targets
+- **DOCUMENTATION**: Note keyword variations used and reasoning
+
+**Tone Blending Difficulties:**
+- **TRIGGER**: When multi-adjective tone elements seem contradictory
+- **ACTION**: Prioritize most important tone element while incorporating others subtly
+- **DOCUMENTATION**: Note tone prioritization decisions and implementation approach
+
+---
+
+## AI OUTPUT FORMAT
+
+### Content Analysis Results
+**Update Mode:** [Quick Assessment | Full Workflow]
+
+**STEP 0B: ENHANCED LINK INVENTORY RESULTS**
+**Detection Methods Used:** [List formats checked: HTML, Markdown, Plain URLs, WordPress, etc.]
+**Original Links Found:** [Number]
+```
+1. [Anchor Text](URL) - Located in: [Section Name] - Format: [Detection method]
+2. [Anchor Text](URL) - Located in: [Section Name] - Format: [Detection method]
+[Continue for all links]
+```
+**Detection Notes:** [Any issues or manual interventions required]
+
+**Content Type Detection:**
+- **Detected Type**: [Article | Listicle | Guide | Review]
+- **Type-Specific Optimizations**: [List optimizations that will be applied]
+
+**Structural Integrity Assessment:**
+- **Issues Identified**: [List specific structural problems found]
+- **Structural Treatment**: [Minor Issues | Major Issues | Fundamental Problems]
+
+**Salvageability Assessment:**
+- **Overall Score**: X/40
+- **Content Quality**: X/10
+- **SEO Foundation**: X/10
+- **Currency/Accuracy**: X/10
+- **Unique Value**: X/10
+
+**Multi-Platform Assessment:**
+- **Current Shareability**: [Low | Medium | High]
+- **Social Media Potential**: [Existing quotable content identified]
+- **Discovery Platform Appeal**: [Current hook strength]
+- **Engagement Triggers**: [Controversial or discussion-worthy elements present]
+
+**Treatment Decision**: [Light Touch | Moderate Updates | Rewrite/Update | Hybrid Approach | Complete Structural Overhaul | **RECOMMEND WRITER PROMPT**]
+
+**Key Findings:**
+- **Preserve**: [List sections/elements to keep as-is]
+- **Update**: [List elements needing data/example updates]
+- **Rewrite**: [List sections needing complete reworking]
+- **Replace**: [List outdated elements requiring replacement]
+- **Restructure**: [List structural changes needed]
+- **NEW: Content Flow Enhancement**: [List areas needing natural structure variety]
+- **NEW: Shareability Enhancement**: [List areas needing engagement improvements]
+
+### Title Analysis & Optimization
+**Current Title Score:** X/50
+**Alternative Titles with Scores:**
+1. [Title] (Score: X/50)
+2. [Title] (Score: X/50)
+3. [Title] (Score: X/50)
+
+**Title Decision Report:**
+- **Current Title Score**: [X/50]
+- **Best Alternative Score**: [Y/50] 
+- **Decision**: [Keep Current | Switch to Alternative]
+- **Reasoning**: [Based on 3+ point rule or other criteria]
+
+**Selected Title:** [Final title choice]
+
+### Research Summary
+**Competitive Landscape**: [Brief overview of current content competition]
+**Research URLs Collected:** [Number]
+```
+1. [URL] - Topic: [Description]
+2. [URL] - Topic: [Description]
+[Continue for all URLs]
+```
+**Fact-Checking Results**: [Summary of verified/updated information]
+**Content Enhancement Opportunities**: [Key gaps and improvement areas identified]
+**Multi-Platform Opportunities**: [Shareability and engagement improvements identified]
+**Fallback Strategies Applied**: [List any fallback strategies used and why]
+
+### Updated Article
+**Article Parameters:**
+- **Original Title**: [Original title]
+- **Updated Title**: [New title if changed]
+- **Original Word Count**: [X words]
+- **Updated Word Count**: [X words]
+- **Content Type**: [Detected/Applied type]
+- **Primary Keyword**: [From input]
+- **Secondary Keywords**: [From input + research-enhanced]
+- **Tone**: [Multi-adjective format from input]
+- **Point of View**: [From input]
+- **Platform Priority**: [From input - Search-focused | Social-focused | Balanced]
+
+**Complete Updated Article:**
+[Full rewritten/updated article following all established standards]
+
+### Change Documentation
+**Update Mode Used**: [Quick Assessment | Full Workflow]
+**Content Type Applied**: [Article | Listicle | Guide | Review with specific optimizations]
+**Key Changes Made:**
+- **Title**: [Kept original | Changed to: "New Title"]
+- **Content Treatment**: [Preserve/Update/Rewrite percentages]
+- **Major Updates**: [List 3-5 most significant changes]
+- **SEO Improvements**: [Keyword optimization, structure enhancements]
+- **Multi-Platform Enhancements**: [Shareability and engagement improvements]
+- **Content Flow Improvements**: [Natural section variety enhancements]
+- **Link Changes**: [Any links moved, new links added]
+- **Advanced Format Diversity**: [List format elements added]
+- **Research Searches**: [Number of searches conducted]
+- **Word Count**: Original [X] → Updated [X] words
+
+**Link Management Report:**
+**Original Links Preserved:** [Number] / [Total Original Links]
+```
+ORIGINAL LINK PLACEMENT TRACKING:
+1. [Original Anchor Text](URL) → Placed in: [New Section] as [New Anchor Text if changed]
+2. [Original Anchor Text](URL) → Placed in: [New Section] as [New Anchor Text if changed]
+[Continue for all original links]
+```
+
+**New Links Added:** [Number]
+```
+NEW LINKS IMPLEMENTED:
+1. [Anchor Text](URL) - From Research: [Search Query] - Placed in: [Section]
+2. [Anchor Text](URL) - From Research: [Search Query] - Placed in: [Section]
+[Continue for all new links]
+```
+
+**Link Distribution Summary:**
+- **Total Links**: [Final count]
+- **Distribution**: [Links per section breakdown]
+- **Quality Verification**: [Confirm all links go to specific content]
+- **Editorial Value**: [Confirm each link enhances reader experience]
+
+**Advanced Format Diversity Report:**
+- **Bullet Lists**: [Number] implemented in sections: [List sections]
+- **Numbered Lists**: [Number] implemented in sections: [List sections]
+- **Enhanced Comparison Tables**: [Number] implemented in sections: [List sections]
+- **Structured Callouts**: [Number] implemented in sections: [List sections] - Types: [Pro Tip, Key Insight, etc.]
+- **Advanced Visual Hierarchy**: [H3 subheadings implemented for better organization]
+- **Distribution**: [Confirm elements spread throughout article]
+
+**Natural Content Flow Report:**
+- **Section Variety Achieved**: [Confirm each major section has unique internal structure]
+- **Template Repetition Avoided**: [Confirm no identical subsection patterns across sections]
+- **Content-Driven Organization**: [Confirm structure serves content purpose, not arbitrary patterns]
+- **Organic Formatting Integration**: [Confirm formatting enhances natural content flow]
+
+**NEW: Multi-Platform Optimization Report:**
+- **Quotable Elements**: [Number] implemented in sections: [List sections]
+- **Social Media Hooks**: [Number] statistics and surprising facts added
+- **Discovery Platform Appeal**: [Number] hook-heavy subheadings created
+- **Visual Content Descriptions**: [Number] visual-friendly descriptions added
+- **Engagement Triggers**: [Number] discussion-worthy points included
+- **Voice Search Integration**: [Natural conversational phrasing maintained without compromising SEO]
+
+**Enhanced Keyword Integration Report:**
+- **Primary Keyword Usage**: [X% density] achieved naturally with [list variations if used]
+- **Secondary Keywords**: [List which keywords used and frequency/density]
+- **Density Achieved**: Primary [X%], Secondary [X% each]
+- **Natural Integration**: [Confirm no forced or awkward placements]
+- **Formatting**: [Confirm no mid-sentence bolding, natural emphasis only]
+
+**Tone Adaptation Report:**
+- **Multi-Adjective Tone**: [Quote tone from input]
+- **Tone Elements Applied**:
+  - [First adjective]: [How implemented throughout content]
+  - [Second adjective]: [How implemented throughout content]
+  - [Third adjective]: [How implemented throughout content]
+- **Consistency**: [Confirm tone maintained throughout all sections]
+- **Natural Blending**: [Confirm smooth transitions between tone elements]
+
+**Quality Assurance Report:**
+- **Fallback Strategies Used**: [List any applied]
+- **Research Limitations**: [Note any constraints encountered]
+- **Link Detection Issues**: [Note any multi-format detection problems]
+- **Link Quality Verification**: [Confirm all links work and go to specific content]
+- **Advanced Format Element Verification**: [Confirm all required elements present]
+- **Multi-Platform Verification**: [Confirm all shareability elements implemented]
+- **Natural Content Flow Verification**: [Confirm section variety and organic structure]
+- **Keyword Integration Verification**: [Confirm natural placement and density targets met]
+- **Tone Consistency Verification**: [Confirm multi-adjective tone maintained throughout]
+- **Sensitive Content Assessment**: [Note if disclaimers were added and why]
+
+---
+
+## AI EXECUTION CHECKLIST
+
+**MANDATORY PRE-SUBMISSION VERIFICATION:**
+- [ ] **INPUT VALIDATION COMPLETED** - All required inputs verified
+- [ ] **STEP 0B: ENHANCED LINK INVENTORY COMPLETED** - Multi-format link detection executed immediately after input validation
+- [ ] **LINK DETECTION METHODS DOCUMENTED** - All detection formats tried and results documented
+- [ ] **ORIGINAL LINKS DOCUMENTED** - Exact count reported with detection method (manual cataloging if automated detection fails)
+- [ ] **CONTENT TYPE DETECTION COMPLETED** - Type identified and optimization strategy planned
+- [ ] **Update Mode determined** - Quick Assessment or Full Workflow
+- [ ] **STRUCTURAL INTEGRITY CHECK COMPLETED** - Headings and organization assessed
+- [ ] **Multi-Platform Assessment Completed** - Shareability and engagement potential evaluated
+- [ ] Content salvageability scoring completed (X/40)
+- [ ] **TITLE DECISION PROCESS**: 3-5 titles generated, scored, and presented to user for selection
+- [ ] Treatment strategy determined and documented
+- [ ] **RESEARCH URLS COLLECTED** - Actual URLs gathered from search results and documented
+- [ ] Research phases completed (maximum 5 searches unless fact-checking requires more)
+- [ ] **Multi-Platform Strategy Developed** - Social media, discovery platform, and engagement optimization planned
+- [ ] **FALLBACK STRATEGIES APPLIED**: Any research/quality limitations addressed with documented strategies
+- [ ] **ORIGINAL LINK PRESERVATION VERIFIED**: Every original link from Step 0B inventory appears in new content
+- [ ] **ORIGINAL LINK PLACEMENT DOCUMENTED**: Note where each preserved link was placed in new content
+- [ ] **NEW LINKS IMPLEMENTED**: Research URLs added using markdown format `[anchor text](URL)` with actual working URLs
+- [ ] **LINK QUALITY CONFIRMED**: All links go to specific articles/studies/resources (NOT homepages, category pages, or generic sections)
+- [ ] **LINK DISTRIBUTION CONFIRMED**: 6-8 total links, max 2 per major section, NOT clustered at article end
+- [ ] **EDITORIAL QUALITY VERIFIED**: Each link genuinely enhances reader experience, not forced to meet quotas
+- [ ] **ADVANCED FORMAT DIVERSITY IMPLEMENTED**: Enhanced comparison tables, structured callout boxes, advanced visual hierarchy, numbered lists, bullet lists
+- [ ] **QUOTABLE ELEMENTS IMPLEMENTED**: Minimum 3 quotable insights formatted for easy sharing
+- [ ] **SOCIAL MEDIA OPTIMIZATION**: Statistics, surprising facts, and pull-quotes added
+- [ ] **DISCOVERY PLATFORM OPTIMIZATION**: Hook-heavy subheadings and engagement triggers implemented
+- [ ] **VOICE SEARCH INTEGRATION**: Natural conversational phrasing where appropriate (without compromising SEO)
+- [ ] **ADVANCED FORMAT ELEMENT VERIFICATION**: All required format elements present and properly distributed
+- [ ] **NATURAL CONTENT FLOW IMPLEMENTED**: Each section has unique structure, avoiding repetitive templates
+- [ ] **CONTENT-DRIVEN ORGANIZATION VERIFIED**: Section structure serves content purpose, not arbitrary patterns
+- [ ] **ENHANCED KEYWORD INTEGRATION**: Primary keyword achieving 0.5-1.5% density naturally, secondary keywords with semantic variations
+- [ ] **KEYWORD DENSITY TARGETS MET**: Primary 0.5-1.5%, Secondary 0.1-0.3% each
+- [ ] **NATURAL KEYWORD PLACEMENT**: No forced phrasing, grammatical flexibility applied
+- [ ] **KEYWORD FORMATTING VERIFIED**: No mid-sentence bolding, natural emphasis only
+- [ ] **MULTI-ADJECTIVE TONE IMPLEMENTED**: All tone elements blended seamlessly throughout content
+- [ ] **TONE CONSISTENCY MAINTAINED**: Consistent tone across all sections (preserved, updated, rewritten)
+- [ ] **PROGRESSIVE QUALITY VERIFICATION POINTS COMPLETED**: Section-by-section quality checks performed
+- [ ] Content matches specified tone and POV consistently
+- [ ] **STRUCTURAL IMPROVEMENTS IMPLEMENTED**: Address identified organizational issues
+- [ ] **MULTI-PLATFORM ELEMENTS VERIFIED**: All shareability enhancements properly integrated
+- [ ] **SENSITIVE CONTENT EVALUATED**: Disclaimers added only when truly needed for medical/legal/financial/safety content
+- [ ] **LINK MANAGEMENT REPORT COMPLETED**: Document original link preservation and new link implementation
+- [ ] **ADVANCED FORMAT DIVERSITY REPORT COMPLETED**: Document all format elements implemented
+- [ ] **NATURAL CONTENT FLOW REPORT COMPLETED**: Document section variety and organic structure improvements
+- [ ] **MULTI-PLATFORM OPTIMIZATION REPORT COMPLETED**: Document all shareability and engagement enhancements
+- [ ] **KEYWORD INTEGRATION REPORT COMPLETED**: Document natural keyword usage and density achievement
+- [ ] **TONE ADAPTATION REPORT COMPLETED**: Document multi-adjective tone implementation
+- [ ] Change documentation completed including fallback strategies used
+- [ ] Quality assurance verification completed
+
+---
+
+## DECISION FRAMEWORK
+
+**Quick Assessment Mode:**
+- **Score ≥ 30 + No Major Structural Issues**: Execute light touch updates with basic multi-platform enhancement
+- **Score ≥ 30 + Major Structural Issues**: Execute moderate updates with structural reorganization and shareability improvements
+- **Score 20-29**: Execute moderate updates with full multi-platform optimization
+- **Score ≤ 19 OR Fundamental Structural Problems**: **RECOMMEND**: "This content requires complete recreation. Please use your Writer prompt to create a fresh article on this topic instead."
+
+**Full Workflow Mode:**
+- **Score ≥ 30 + Minor Structural Issues**: Execute rewrite/update approach with comprehensive multi-platform optimization
+- **Score ≥ 30 + Major Structural Issues**: Execute hybrid approach with complete structural overhaul and full shareability enhancement
+- **Score 20-29 + Minor/Major Structural Issues**: Execute hybrid approach (preserve content insights, restructure completely, implement full multi-platform strategy)
+- **Score ≤ 19 OR Fundamental Structural Problems**: **RECOMMEND**: "This content requires complete recreation. Please use your Writer prompt to create a fresh article on this topic instead."
+
+**Multi-Platform Priority Adjustments:**
+- **Search-Focused**: Prioritize SEO optimization while maintaining basic shareability
+- **Social-Focused**: Emphasize quotable content, engagement triggers, and visual descriptions
+- **Balanced** (Default): Equal weight to search optimization and social/discovery platform appeal
+
+---
+
+## VOICE SEARCH INTEGRATION GUIDELINES
+
+**When to Include Voice Search Optimization:**
+- **Natural Integration Only**: Include conversational phrasing and question-based subheadings only when they flow naturally
+- **FAQ Sections**: When topic naturally lends itself to question-answer format
+- **How-To Content**: When step-by-step instructions benefit from conversational language
+- **Problem-Solution Content**: When addressing common questions about the topic
+
+**When NOT to Force Voice Search Optimization:**
+- **Technical Content**: Highly technical articles where formal language is expected
+- **Professional/Authoritative Tone**: When conversational language would undermine credibility
+- **Keyword Density Priority**: When voice optimization would compromise primary keyword integration
+- **Industry-Specific Content**: When niche terminology and formal language are required
+
+**Voice Search Implementation Standards:**
+- **Maintain SEO Priority**: Never compromise keyword optimization for voice search
+- **Natural Language Flow**: Only use conversational phrasing where it improves readability
+- **Question-Based Subheadings**: Include only when questions are logical for the topic
+- **FAQ Integration**: Add FAQ sections only when they add genuine value
+- **Long-Tail Keywords**: Naturally incorporate question-based long-tail variations when possible
+
+This enhanced workflow provides comprehensive multi-platform optimization while maintaining search engine focus and improving link detection reliability through multiple format recognition.
+
+---
+
+*AI-Optimized Content Rewriter & Updater Workflow v4.0 © 2025 Enhanced with Advanced Formatting, Progressive Quality Control, and Natural Content Flow Optimization*
